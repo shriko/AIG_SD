@@ -1,0 +1,12 @@
+{
+	"Campagne Maj Paie": [
+		{"name": "Driver MS OLE DB 18.7.4","url": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/fr-FR/18.7.4.0/x64/msoledbsql.msi"}	
+		{"name": "Sage Paie v7.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/7.00/Logiciel/Paie100/Sage100Paie.exe"},
+		{"name": "Patch 7.10","url": "https://burdpme.sage.com.dl1.ipercast.net/PaieV1610/7.10/Paie_100_710.exe"},
+		{"name": "Patch 7.10.1","url": "https://burdpme.sage.com.dl1.ipercast.net/PaieV1610/7.10.1/Paie_100_7101.exe"},
+		{"name": "Sage DS 15.11.1","url": "http://burdpme.sage.com.dl1.ipercast.net/PME/DS/15.11.1/SageDS_15_11_1.exe"},
+		{"name": "Jeu d'essai","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/7.00/Logiciel/JeudEssai/sqlserveur/JESQL.exe"}
+		{"name": "Sage BI Reporting","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/BIReporting_100.exe"},
+		{"name": "Sage Serveur Windows v30","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3000.exe"}		
+	]
+}

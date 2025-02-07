@@ -62,5 +62,37 @@
 		{"name": "SRC - Connecteur","url":"https://s3-clearnox-prod-fe-public-sharing-5-01-dpa8n32l.s3.eu-west-3.amazonaws.com/clearnox-connector/clearnox-connector-7-2-0-0.msi"},
 		{"name": "ACS - Console Live","url" : "https://download.akaolife.com/SmithConnector/Setup/ACS/SetupSmithConnector.msi"},
 		{"name": "TransfertBanque - ComptaSync","url": "https://www.transfertbanque.fr/appli/Connecteur/ComptaSync.msi"}
-	]
+	],
+	"OLD Sage 100 v10": [
+        	{"name": "Partie Serveur", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_1000.exe"},
+        	{"name": "Partie Cliente", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServCli100c_1000.exe"},
+		{"name": "ERP", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/ERP/Erp100c_1011.exe"},
+      		{"name": "Comptabilite", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Compta/Compta100c_1011.exe"},
+		{"name": "Gestion Commerciale", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Gescom/Gescom100c_1011.exe"},
+		{"name": "Moyens de Paiement", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Mdp/Mdp100c_1000.exe"},
+		{"name": "Immobilisations", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Immo/Immo100c_1000.exe"},
+		{"name": "Tresorerie", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Treso/Treso100c_1000.exe"},
+		{"name": "Objets Metiers", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Autre/Objets100c_1010.exe"},
+		{"name": "Sage Online Converter","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Maintenance/SOC_pour_100_V10.zip"},
+		{"name": "Gestion de Production - 1ere installation", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100c_1000.exe"},
+		{"name": "Gestion de Production - Mise a jour", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100cMaj_1010.exe"},
+		{"name": "CRM Force de Vente/Service","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/CRM/Crm100c_1000.iso"},
+		{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_1000.exe"}
+	],
+	"OLD Sage 100 v9": [
+        	{"name": "Partie Serveur", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_900.exe"},
+        	{"name": "Partie Cliente", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServCli100c_900.exe"},
+		{"name": "ERP", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/ERP/Erp100c_902.exe"},
+      		{"name": "Comptabilite", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Compta/Compta100c_902.exe"},
+		{"name": "Gestion Commerciale", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Gescom/Gescom100c_902.exe"},
+		{"name": "Moyens de Paiement", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Mdp/Mdp100c_902.exe"},
+		{"name": "Immobilisations", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Immo/Immo100c_902.exe"},
+		{"name": "Tresorerie", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Treso/Treso100c_902.exe"},
+		{"name": "Objets Metiers", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Autre/Objets100c_902.exe"},
+		{"name": "Sage Online Converter","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Maintenance/SOC_pour_100_V9.zip"},
+		{"name": "Gestion de Production - 1ere installation", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100c_900.exe"},
+		{"name": "Gestion de Production - Mise a jour", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100cMaj_900.exe"},
+		{"name": "CRM Force de Vente/Service","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/CRM/Crm100c_900.iso"},
+		{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_900.exe"}
+	],
 }

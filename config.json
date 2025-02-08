@@ -1,13 +1,15 @@
 {
-	"Microsoft SQL Server": [
+	"Microsoft SQL Server / Outils SQL": [
 		{"name": "SQL Server 2019 Runtime (FR)", "url": "https://aig.fr/static/uploads/aig/telechargements/SAGE_SQL_SERVER_2019_FR.zip"},
 		{"name": "SQL Server 2019 Express (FR)", "url": "https://download.microsoft.com/download/7/f/8/7f8a9c43-8c8a-4f7c-9f92-83c18d96b681/SQL2019-SSEI-Expr.exe"},
         	{"name": "SQL Server 2019 Cumulative Update", "url": "https://download.microsoft.com/download/6/e/7/6e72dddf-dfa4-4889-bc3d-e5d3a0fd11ce/SQLServer2019-KB5049235-x64.exe"},
 		{"name": "SQL Server 2022 Express (FR)", "url": "https://download.microsoft.com/download/5/1/4/5145fe04-4d30-4b85-b0d1-39533663a2f1/SQL2022-SSEI-Expr.exe"},
 		{"name": "SQL Server 2022 Cumulative Update", "url": "https://download.microsoft.com/download/9/6/8/96819b0c-c8fb-4b44-91b5-c97015bbda9f/SQLServer2022-KB5048038-x64.exe"},
-		{"name": "SQL Management Studio (FR)", "url": "https://download.microsoft.com/download/9/b/e/9bee9f00-2ee2-429a-9462-c9bc1ce14c28/SSMS-Setup-FRA.exe"},
-		{"name": "SQL Serveur 2012 SP2 x64", "url": "https://download.microsoft.com/download/1/3/F/13FD6E17-5CEC-4E03-802C-E198AD35AF25/SQLServer2012SP2-KB2958429-x64-FRA.exe"},
-		{"name": "Driver MS OLE DB 18.7.4","url": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/fr-FR/18.7.4.0/x64/msoledbsql.msi"}	
+		{"name": "SQL Serveur Management Studio (FR)", "url": "https://download.microsoft.com/download/9/b/e/9bee9f00-2ee2-429a-9462-c9bc1ce14c28/SSMS-Setup-FRA.exe"},
+		{"name": "SQL Serveur 2012 SP2 x64 (pour maj instance)", "url": "https://download.microsoft.com/download/1/3/F/13FD6E17-5CEC-4E03-802C-E198AD35AF25/SQLServer2012SP2-KB2958429-x64-FRA.exe"},
+		{"name": "Driver MS OLE DB 18.7.4","url": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/fr-FR/18.7.4.0/x64/msoledbsql.msi"},
+		{"name": "SQL Backup Master","url": "https://www.sqlbackupmaster.com/Content/download/sbm-setup.exe"},
+		{"name": "HeidiSQL","url": "https://www.heidisql.com/downloads/releases/HeidiSQL_12.10_64_Portable.zip"}
 	],
 	"Sage 100 v11": [
         	{"name": "Partie Serveur", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_1100.exe"},
@@ -35,7 +37,7 @@
 	"Sage Etats Comptables & Fiscaux": [
 		{"name": "Sage Etats Comptables & Fiscaux v18.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/ECF/18.00/Ecfi7_1800.exe"}
 	],
-	"Autres": [
+	"BI / Direct / Sage Serveur": [
 		{"name": "Sage BI Reporting","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/BIReporting_100.exe"},
 		{"name": "Sage Direct 8.4.0","url" : "https://burdpme.sage.com.dl1.ipercast.net/produits/direcTel/Sagedirect_8.4.0.exe"},
 		{"name": "Sage Serveur Windows v30","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3000.exe"}		
@@ -62,6 +64,37 @@
 		{"name": "SRC - Connecteur 7.2","url":"https://s3-clearnox-prod-fe-public-sharing-5-01-dpa8n32l.s3.eu-west-3.amazonaws.com/clearnox-connector/clearnox-connector-7-2-0-0.msi"},
 		{"name": "ACS - Console Live","url" : "https://download.akaolife.com/SmithConnector/Setup/ACS/SetupSmithConnector.msi"},
 		{"name": "TransfertBanque - ComptaSync","url": "https://www.transfertbanque.fr/appli/Connecteur/ComptaSync.msi"}
+	],
+		"Batigest avec SQL": [
+		{"name": "V7.0.1","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V7.0.1.exe"},
+		{"name": "V6.5","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V6.5.0.exe"},
+		{"name": "V6.0.2","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V6.0.2.exe"},
+		{"name": "V5.0.1","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V5.0.1.exe"},
+		{"name": "V4.1.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V4.1.0.exe"},
+		{"name": "V3.0.2","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V3.0.2.exe"},
+		{"name": "V2.2.1","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V2.2.1.exe"},
+		{"name": "V1.2.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V1.2.0.exe"}
+	],
+	"Batigest Light sans SQL pour MAJ": [
+		{"name": "V7.0.1","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V7.0.1_Light.exe"},
+		{"name": "V6.5","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V6.5.0_Light.exe"},
+		{"name": "V6.0.2","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V6.0.2_Light.exe"},
+		{"name": "V5.0.1","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V5.0.1_Light.exe"},
+		{"name": "V4.1.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V4.1.0_Light.exe"},
+		{"name": "V3.0.2","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V3.0.2_Light.exe"},
+		{"name": "V2.2.1","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V2.2.1_Light.exe"}
+	],	
+	"Sage FRP 1000":[
+		{"name": "V11","url":"https://bumge.sage.com.dl1.ipercast.net/SageFRP1000/1100/setup.zip"},
+		{"name": "V10","url":"https://bumge.sage.com.dl1.ipercast.net/SageFRP1000/1000/setup.zip"},
+		{"name": "V9","url":"https://bumge.sage.com.dl1.ipercast.net/SageFRP1000/900/sagefrp1000-900.iso"},
+		{"name": "V9 ext ed","url":"https://bumge.sage.com.dl1.ipercast.net/SageFRP1000/900/sagefrp1000Extended-900.iso"},
+		{"name": "V8","url":"https://bumge.sage.com.dl1.ipercast.net/SageFRP1000/800/sagefrp1000-800.iso"},
+		{"name": "V8 ext ed","url":"https://bumge.sage.com.dl1.ipercast.net/SageFRP1000/800/sagefrp1000Extended-800.iso"},
+		{"name": "V7.10","url":"https://bumge.sage.com.dl1.ipercast.net/SageFRP1000/710/SageFRP1000V710-PRODU0CD973710.iso"},
+		{"name": "V7.10 ext ed","url":"https://bumge.sage.com.dl1.ipercast.net/SageFRP1000/710/SageFRPExtendedEditionV710-PRODU0CD978710.iso"},
+		{"name": "V7","url":"https://bumge.sage.com.dl1.ipercast.net/SageFRP1000/700/SageFRP1000V7-DVD97310515.iso"},
+		{"name": "V7 ext ed","url":"https://bumge.sage.com.dl1.ipercast.net/SageFRP1000/700/SageFRPTreasuryExtendedEditionV7-DVD97810015.iso"}
 	],
 	"OLD Sage 100 v10": [
         	{"name": "Partie Serveur", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_1000.exe"},

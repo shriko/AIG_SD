@@ -14,7 +14,7 @@
 	"Sage 100 v11": [
         	{"name": "Partie Serveur", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_1100.exe"},
         	{"name": "Partie Cliente", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServCli100c_1100.exe"},
-		{"name": "ERP", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/ERP/Erp100c_1102.exe"},
+		{"name": "Entreprise / SCF", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/ERP/Erp100c_1102.exe"},
       		{"name": "Comptabilite", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Compta/Compta100c_1102.exe"},
 		{"name": "Gestion Commerciale", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Gescom/Gescom100c_1102.exe"},
 		{"name": "Moyens de Paiement", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Mdp/Mdp100c_1101.exe"},
@@ -100,7 +100,7 @@
 	"Sage 100 v10": [
         	{"name": "Partie Serveur", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_1000.exe"},
         	{"name": "Partie Cliente", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServCli100c_1000.exe"},
-		{"name": "ERP", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/ERP/Erp100c_1011.exe"},
+		{"name": "Entreprise / SCF", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/ERP/Erp100c_1011.exe"},
       		{"name": "Comptabilite", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Compta/Compta100c_1011.exe"},
 		{"name": "Gestion Commerciale", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Gescom/Gescom100c_1011.exe"},
 		{"name": "Moyens de Paiement", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Mdp/Mdp100c_1000.exe"},
@@ -116,7 +116,7 @@
 	"Sage 100 v9": [
         	{"name": "Partie Serveur", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_900.exe"},
         	{"name": "Partie Cliente", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServCli100c_900.exe"},
-		{"name": "ERP", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/ERP/Erp100c_902.exe"},
+		{"name": "Entreprise / SCF", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/ERP/Erp100c_902.exe"},
       		{"name": "Comptabilite", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Compta/Compta100c_902.exe"},
 		{"name": "Gestion Commerciale", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Gescom/Gescom100c_902.exe"},
 		{"name": "Moyens de Paiement", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Mdp/Mdp100c_902.exe"},

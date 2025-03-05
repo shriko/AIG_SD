@@ -1,7 +1,7 @@
 {
 	"Assistance AIG": [
 		{"name": "AIG - Teamviewer", "url": "https://aig.fr/static/uploads/aig/aig-teamvi-1666864954973.exe"}
-	]
+	],
 	"Microsoft SQL Server / Outils SQL": [
 		{"name": "SQL Server 2019 Runtime (FR)", "url": "https://aig.fr/static/uploads/aig/telechargements/SAGE_SQL_SERVER_2019_FR.zip"},
 		{"name": "SQL Server 2019 Express Advanced Services (FR)", "url": "https://download.microsoft.com/download/8/c/1/8c19e6c3-dde1-49ea-a4f5-e261671cc302/SQLEXPRADV_x64_FRA.exe"},

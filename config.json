@@ -25,7 +25,8 @@
 		{"name": "Gestion de Production - 1ere installation", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100c_1100.exe"},
 		{"name": "Gestion de Production - Mise a jour", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100cMaj_1110.exe"},
 		{"name": "CRM Force de Vente/Service","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/CRM/Crm100c_1100.iso"},
-		{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_1100.exe"}
+		{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_1100.exe"},
+		{"name": "Maintenance 29.2 (déjà intégré dans les derniers setup)","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Maintenance/Maint_2902.exe"}
 	],
 	"Sage Paie v7": [
 		{"name": "Paie 7.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/7.00/Logiciel/Paie100/Sage100Paie.exe"},

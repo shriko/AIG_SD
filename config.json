@@ -67,7 +67,8 @@
 		{"name": "ACS - Console Live","url" : "https://download.akaolife.com/SmithConnector/Setup/ACS/SetupSmithConnector.msi"},
 		{"name": "TransfertBanque - ComptaSync","url": "https://www.transfertbanque.fr/appli/Connecteur/ComptaSync.msi"}
 	],
-		"Batigest avec SQL": [
+	"Batigest avec SQL": [
+		{"name": "V8.0.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V8.0.0.exe"},
 		{"name": "V7.0.1","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V7.0.1.exe"},
 		{"name": "V6.5","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V6.5.0.exe"},
 		{"name": "V6.0.2","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V6.0.2.exe"},
@@ -78,6 +79,7 @@
 		{"name": "V1.2.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V1.2.0.exe"}
 	],
 	"Batigest Light sans SQL pour MAJ": [
+		{"name": "V8.0.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V8.0.0_Light.exe"},
 		{"name": "V7.0.1","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V7.0.1_Light.exe"},
 		{"name": "V6.5","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V6.5.0_Light.exe"},
 		{"name": "V6.0.2","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V6.0.2_Light.exe"},

@@ -62,8 +62,7 @@
 	"Migration Online/SPC": [
 		{"name": "Sage Online Converter v11","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Maintenance/SOC_pour_100_V11.zip"},
 		{"name": "Migration Sage 100 Paie Heberge/SPC v7.10", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/7.10/PaieMigrationAzure7.10_vers_2024.5.zip"},
-		{"name": "Documentation outil migration Paie", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V710.pdf"},
-		{"name": "Test", "url": "https://fr-kb.sage.com/portal/app/portlets/results/viewdocument.jsp?solutionid=250227164730217"}
+		{"name": "Documentation outil migration Paie", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V710.pdf"}
 	],
 	"Connecteurs": [
 		{"name": "SRC - Connecteur 7.2","url":"https://s3-clearnox-prod-fe-public-sharing-5-01-dpa8n32l.s3.eu-west-3.amazonaws.com/clearnox-connector/clearnox-connector-7-2-0-0.msi"},

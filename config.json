@@ -133,5 +133,20 @@
 		{"name": "Gestion de Production - Mise a jour", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100cMaj_900.exe"},
 		{"name": "CRM Force de Vente/Service","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/CRM/Crm100c_900.iso"},
 		{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_900.exe"}
+	],
+	"Sage 100 v6": [
+        	{"name": "Partie Serveur", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_600.exe"},
+        	{"name": "Partie Cliente", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServCli100c_600.exe"},
+		{"name": "Entreprise / SCF", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/ERP/Erp100c_601.exe"},
+      		{"name": "Comptabilite", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Compta/Compta100c_601.exe"},
+		{"name": "Gestion Commerciale", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Gescom/Gescom100c_601.exe"},
+		{"name": "Moyens de Paiement", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Mdp/Mdp100c_600.exe"},
+		{"name": "Immobilisations", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Immo/Immo100c_600.exe"},
+		{"name": "Tresorerie", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Treso/Treso100c_600.exe"},
+		{"name": "Objets Metiers", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Autre/Objets100c_600.exe"},
+		{"name": "Gestion de Production - 1ere installation", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100c_600.exe"},
+		{"name": "Gestion de Production - Mise a jour", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100cMaj_600.exe"},
+		{"name": "CRM Force de Vente/Service","url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/CRM/Crm100c_600.iso"},
+		{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "http://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_600.exe"}
 	]
 }

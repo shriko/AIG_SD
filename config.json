@@ -11,7 +11,6 @@
 		{"name": "SQL Backup Master","url": "https://www.sqlbackupmaster.com/Content/download/sbm-setup.exe"},
 		{"name": "HeidiSQL","url": "https://www.heidisql.com/downloads/releases/HeidiSQL_12.10_64_Portable.zip"},
 		{"name": "SQL Server 2017 Express Advanced Services (FR)", "url": "https://download.microsoft.com/download/0/E/0/0E08C7E6-43C8-4FE6-8035-9E3E31163417/SQLEXPR_x64_FRA.exe"},
-		{"name": "test", "url": "https://aka.ms/ssmsfullsetup?clcid=0x40c"},
 		{"name": "SQL Server 2017 Cumulative Update", "url": "https://download.microsoft.com/download/c/4/f/c4f908c9-98ed-4e5f-88d5-7d6a5004aebd/SQLServer2017-KB5050533-x64.exe"}
 	],
 	"Sage 100 v11": [

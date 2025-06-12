@@ -31,7 +31,9 @@
 		{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_1100.exe"},
 		{"name": "Maintenance 29.2 (déjà intégré dans les derniers setup)","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Maintenance/Maint_2902.exe"}
 	],
-	"Sage Paie v7": [
+	"Sage Paie": [
+		{"name": "Paie 8.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/8.00/Logiciel/Paie100/Sage100Paie.exe"},
+		{"name": "Sage DS 16.0","url": "http://burdpme.sage.com.dl1.ipercast.net/PME/DS/16.00/SageDS_16_0.exe"},
 		{"name": "Paie 7.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/7.00/Logiciel/Paie100/Sage100Paie.exe"},
 		{"name": "Patch 7.10","url": "https://burdpme.sage.com.dl1.ipercast.net/PaieV1610/7.10/Paie_100_710.exe"},
 		{"name": "Patch 7.10.1","url": "https://burdpme.sage.com.dl1.ipercast.net/PaieV1610/7.10.1/Paie_100_7101.exe"},

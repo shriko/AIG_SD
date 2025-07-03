@@ -43,7 +43,7 @@
 	"BI / Direct / Sage Serveur": [
 		{"name": "Sage Business Reporting","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/BIReporting_100.exe"},
 		{"name": "Sage BI Reporting (sans SageID)","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/SageBIReporting24.10.0.9.exe"},
-		{"name": "Sage Direct 8.4.0","url" : "https://burdpme.sage.com.dl1.ipercast.net/produits/direcTel/Sagedirect_8.4.0.exe"},
+		{"name": "Sage Direct 8.5.0","url" : "https://burdpme.sage.com.dl1.ipercast.net/produits/direcTel/Sagedirect_8.5.0.exe"},
 		{"name": "Sage Serveur Windows v30","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3000.exe"}		
 	],
 	"Supporia" : [

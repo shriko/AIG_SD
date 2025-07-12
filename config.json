@@ -58,7 +58,7 @@
 		{"name": "Supporia v25 pour Sage 100 v7","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2500.zip"},
 		{"name": "Supporia v24 pour Sage 100 v6","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2400.zip"},
 		{"name": "Supporia v23 pour Sage 100 v5","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2300.zip"},
-		{"name": "Supporia v21 pour Sage 100 v3 et v4","url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2102.zip"},
+		{"name": "Supporia v21 pour Sage 100 v3 et v4","url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2110.zip"},
 		{"name": "Supporia v20 pour Sage 100 v2","url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2000.zip"},
 		{"name": "Supporia v19 pour Sage 100 v1","url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_1900.zip"},
 		{"name": "Supporia v18 pour Sage 100 i7 v8","url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Common/Supporia/Supporia1801.zip"}
@@ -150,6 +150,20 @@
 		{"name": "Gestion de Production - Mise a jour", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100cMaj_810.exe"},
 		{"name": "CRM Force de Vente/Service","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/CRM/Crm100c_810.iso"},
 		{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "http://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_800.exe"}		
+	],
+	"Sage 100 v7": [
+        	{"name": "Partie Serveur", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_700.exe"},
+        	{"name": "Partie Cliente", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServCli100c_700.exe"},
+		{"name": "Entreprise / SCF", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/ERP/Erp100c_702.exe"},
+      		{"name": "Comptabilite", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Compta/Compta100c_701.exe"},
+		{"name": "Gestion Commerciale", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Gescom/Gescom100c_700.exe"},
+		{"name": "Moyens de Paiement", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Mdp/Mdp100c_702.exe"},
+		{"name": "Immobilisations", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Immo/Immo100c_700.exe"},
+		{"name": "Tresorerie", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Treso/Treso100c_700.exe"},
+		{"name": "Objets Metiers", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Autre/Objets100c_700.exe"},
+		{"name": "Gestion de Production - 1ere installation", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100c_700.exe"},
+		{"name": "Gestion de Production - Mise a jour", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100cMaj_700.exe"},
+		{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "http://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_700.exe"}		
 	],
 	"Sage 100 v6": [
         	{"name": "Partie Serveur", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_600.exe"},

@@ -30,7 +30,6 @@
 		{"name": "Gestion de Production - Mise a jour", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100cMaj_1110.exe"},
 		{"name": "CRM Force de Vente/Service","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/CRM/Crm100c_1100.iso"},
 		{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_1100.exe"},
-		{"name": "Maintenance 29.2 (déjà intégré dans les derniers setup)","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Maintenance/Maint_2902.exe"}
 	],
 	"Sage Paie": [
 		{"name": "Paie 8.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/8.00/Logiciel/Paie100/Sage100Paie.exe"},
@@ -40,11 +39,16 @@
 	"Sage Etats Comptables & Fiscaux": [
 		{"name": "Sage Etats Comptables & Fiscaux v18.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/ECF/18.00/Ecfi7_1800.exe"}
 	],
-	"BI / Direct / Sage Serveur": [
-		{"name": "Sage Business Reporting","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/BIReporting_100.exe"},
-		{"name": "Sage BI Reporting (sans SageID)","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/SageBIReporting24.10.0.9.exe"},
+	"Sage Direct / Sage Serveur": [
 		{"name": "Sage Direct 8.5.0","url" : "https://burdpme.sage.com.dl1.ipercast.net/produits/direcTel/Sagedirect_8.5.0.exe"},
 		{"name": "Sage Serveur Windows v30","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3000.exe"}		
+	],
+	"Sage BI": [
+		{"name": "Sage Business Reporting 25.3","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/BIReporting_100.exe"},
+		{"name": "Sage BI Reporting 24.10","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/SageBIReporting24.10.0.9.exe"},
+		{"name": "Sage BI Reporting 24.3.3","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/SageBIReporting24.3.3.1.exe"},
+		{"name": "Sage BI Reporting 24.3.1","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/SageBIReporting24.3.1.0.exe"},
+		{"name": "Sage BI Reporting 23.8","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/SageBIReporting23.8.0.7.exe"}
 	],
 	"Supporia" : [
 		{"name": "Supporia v29 pour Sage 100 v11","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2900.zip"},
@@ -61,8 +65,8 @@
 	],
 	"Migration Online/SPC": [
 		{"name": "Sage Online Converter v11","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Maintenance/SOC_pour_100_V11.zip"},
-		{"name": "Migration Sage 100 Paie Heberge/SPC v7.10", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/7.10/PaieMigrationAzure7.10_vers_2024.5.zip"},
-		{"name": "Documentation outil migration Paie", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V710.pdf"}
+		{"name": "Migration Sage 100 Paie Heberge/SPC v8.00", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/8.00/PaieMigrationAzure8.00_vers_2025.2.zip"},
+		{"name": "Documentation outil migration Paie", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V800.pdf"}
 	],
 	"Connecteurs": [
 		{"name": "SRC - Connecteur 7.2","url":"https://s3-clearnox-prod-fe-public-sharing-5-01-dpa8n32l.s3.eu-west-3.amazonaws.com/clearnox-connector/clearnox-connector-7-2-0-0.msi"},

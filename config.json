@@ -15,6 +15,19 @@
 		{"name": "SQL Server 2017 Cumulative Update", "url": "https://download.microsoft.com/download/c/4/f/c4f908c9-98ed-4e5f-88d5-7d6a5004aebd/SQLServer2017-KB5050533-x64.exe"}
 	],
 	"Sage 100 v12": [
+		{"name": "Partie Serveur", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_1200.exe"},
+        	{"name": "Partie Cliente", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServCli100c_1200.exe"},
+		{"name": "Entreprise / SCF", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/ERP/Erp100c_1200.exe"},
+      		{"name": "Comptabilite", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Compta/Compta100c_1200.exe"},
+		{"name": "Gestion Commerciale", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Gescom/Gescom100c_1200.exe"},
+		{"name": "Moyens de Paiement", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Mdp/Mdp100c_1200.exe"},
+		{"name": "Immobilisations", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Immo/Immo100c_1200.exe"},
+		{"name": "Tresorerie", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Treso/Treso100c_1200.exe"},
+		{"name": "Objets Metiers", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Autre/Objets100c_1200.exe"},
+		{"name": "Gestion de Production - 1ere installation", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100c_1200.exe"},
+		{"name": "Gestion de Production - Mise a jour", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100cMaj_1200.exe"},
+		{"name": "CRM Force de Vente/Service","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/CRM/Crm100c_1200.iso"},
+		{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_1200.exe"}
 	],
 	"Sage 100 v11": [
         	{"name": "Partie Serveur", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_1100.exe"},
@@ -28,7 +41,7 @@
 		{"name": "Objets Metiers", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Autre/Objets100c_1100.exe"},
 		{"name": "Gestion de Production - 1ere installation", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100c_1100.exe"},
 		{"name": "Gestion de Production - Mise a jour", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100cMaj_1110.exe"},
-		{"name": "CRM Force de Vente/Service","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/CRM/Crm100c_1100.iso"},
+		{"name": "CRM Force de Vente/Service","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/CRM/Crm100c_1102.iso"},
 		{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_1100.exe"}
 	],
 	"Sage Paie": [
@@ -41,7 +54,8 @@
 	],
 	"Sage Direct / Sage Serveur": [
 		{"name": "Sage Direct 8.5.0","url" : "https://burdpme.sage.com.dl1.ipercast.net/produits/direcTel/Sagedirect_8.5.0.exe"},
-		{"name": "Sage Serveur Windows v30","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3000.exe"}		
+		{"name": "Sage Serveur Windows v30","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3000.exe"},
+		{"name": "Sage Serveur Windows v31","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3100.exe"}
 	],
 	"Sage BI": [
 		{"name": "Sage Business Reporting 25.3","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/BIReporting_100.exe"},

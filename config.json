@@ -196,7 +196,7 @@
 		{"name": "Gestion de Production - Mise a jour", "url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100cMaj_600.exe"},
 		{"name": "CRM Force de Vente/Service","url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/CRM/Crm100c_600.iso"},
 		{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "http://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_600.exe"}
-	]
+	],
 	"Sage Paie v7": [
 		{"name": "Paie 7.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/7.00/Logiciel/Paie100/Sage100Paie.exe"},
 		{"name": "Update 7.10","url": "https://burdpme.sage.com.dl1.ipercast.net/PaieV1610/7.10/Paie_100_710.exe"},

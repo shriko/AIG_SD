@@ -71,6 +71,7 @@
 		{"name": "Documentation outil migration Paie", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V800.pdf"}
 	],
 	"Connecteurs": [
+		{"name": "Sage 100 Supervisor (RFE)","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/SetupSupervisor.exe"},
 		{"name": "SRC - Connecteur 7.2","url":"https://s3-clearnox-prod-fe-public-sharing-5-01-dpa8n32l.s3.eu-west-3.amazonaws.com/clearnox-connector/clearnox-connector-7-2-0-0.msi"},
 		{"name": "ACS - Console Live","url" : "https://download.akaolife.com/SmithConnector/Setup/ACS/SetupSmithConnector.msi"},
 		{"name": "TransfertBanque - ComptaSync","url": "https://www.transfertbanque.fr/appli/Connecteur/ComptaSync.msi"}

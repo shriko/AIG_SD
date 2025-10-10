@@ -1,6 +1,6 @@
 {
 	"Microsoft SQL Server / Outils SQL": [
-		{"name": "SQL Server 2022 Runtime (FR)", "url": "rfe.shriko.fr/SQL_SERVER_2022_FR.zip"},
+		{"name": "SQL Server 2022 Runtime (FR)", "url": "https://rfe.shriko.fr/SQL_SERVER_2022_FR.zip"},
 		{"name": "SQL Server 2022 Express Advanced Services (FR)", "url": "https://download.microsoft.com/download/2/7/c/27cda557-1af3-481f-b85f-0889000ed0e6/SQLEXPRADV_x64_FRA.exe"},
 		{"name": "SQL Server 2022 Cumulative Update", "url": "https://download.microsoft.com/download/9/6/8/96819b0c-c8fb-4b44-91b5-c97015bbda9f/SQLServer2022-KB5048038-x64.exe"},
 		{"name": "SQL Server 2019 Runtime (FR)", "url": "https://rfe.shriko.fr/SAGE_SQL_SERVER_2019_FR.zip"},

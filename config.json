@@ -1,6 +1,6 @@
 {
 	"Microsoft SQL Server / Outils SQL": [
-		{"name": "SQL Server 2019 Runtime (FR)", "url": "https://partage.aig.fr/downloadFile?id=0izQ3TjAOOCdj8g"},
+		{"name": "SQL Server 2019 Runtime (FR)", "url": "https://files.shriko.fr/api/public/dl/WY_YEuj9"},
 		{"name": "SQL Server 2019 Express Advanced Services (FR)", "url": "https://download.microsoft.com/download/8/c/1/8c19e6c3-dde1-49ea-a4f5-e261671cc302/SQLEXPRADV_x64_FRA.exe"},
         {"name": "SQL Server 2019 Cumulative Update", "url": "https://download.microsoft.com/download/6/e/7/6e72dddf-dfa4-4889-bc3d-e5d3a0fd11ce/SQLServer2019-KB5054833-x64.exe"},
 		{"name": "SQL Server 2022 Express Advanced Services (FR)", "url": "https://download.microsoft.com/download/2/7/c/27cda557-1af3-481f-b85f-0889000ed0e6/SQLEXPRADV_x64_FRA.exe"},

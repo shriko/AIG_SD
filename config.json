@@ -76,8 +76,10 @@
 	"Migration Online/SPC": [
 		{"name": "Sage Onlive Converter v12","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Maintenance/SOC_pour_100_V12.zip"},
 		{"name": "Sage Online Converter v11","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Maintenance/SOC_pour_100_V11.zip"},
+		{"name": "Migration Sage 100 Paie Heberge/SPC v8.10", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/8.10/PaieMigrationAzure8.10_vers_2025.5.zip"},
+		{"name": "Documentation outil migration Paie 8.10", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V810.pdf"},
 		{"name": "Migration Sage 100 Paie Heberge/SPC v8.00", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/8.00/PaieMigrationAzure8.00_vers_2025.3.zip"},
-		{"name": "Documentation outil migration Paie", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V800.pdf"}
+		{"name": "Documentation outil migration Paie 8.00", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V800.pdf"}
 	],
 	"Connecteurs": [
 		{"name": "Sage 100 Supervisor (RFE)","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/SetupSupervisor.exe"},
@@ -87,7 +89,7 @@
 		{"name": "TransfertBanque - ComptaSync","url": "https://www.transfertbanque.fr/appli/Connecteur/ComptaSync.msi"}
 	],
 	"Batigest avec SQL": [
-		{"name": "v8.5.1","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V8.5.1.exe"},
+		{"name": "v8.5.2","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V8.5.2.exe"},
 		{"name": "V8.0.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V8.0.0.exe"},
 		{"name": "V7.0.1","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V7.0.1.exe"},
 		{"name": "V6.5","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V6.5.0.exe"},
@@ -99,7 +101,7 @@
 		{"name": "V1.2.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V1.2.0.exe"}
 	],
 	"Batigest Light sans SQL pour MAJ": [
-		{"name": "V8.5.1","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V8.5.1_Light.exe"},
+		{"name": "V8.5.2","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V8.5.2_Light.exe"},
 		{"name": "V8.0.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V8.0.0_Light.exe"},
 		{"name": "V7.0.1","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V7.0.1_Light.exe"},
 		{"name": "V6.5","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V6.5.0_Light.exe"},

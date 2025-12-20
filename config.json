@@ -30,8 +30,8 @@
 		{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_1200.exe"}
 	],
 	"Sage Paie v8.xx": [
-		{"name": "Sage Paie 8.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/8.00/Logiciel/Paie100/Sage100Paie.exe"},
-		{"name": "Patch 8.11","url": "https://burdpme.sage.com.dl1.ipercast.net/PaieV1710/8.11/Paie_100_811.exe"},
+		{"name": "Paie 8.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/8.00/Logiciel/Paie100/Sage100Paie.exe"},
+		{"name": "Update 8.11","url": "https://burdpme.sage.com.dl1.ipercast.net/PaieV1710/8.11/Paie_100_811.exe"},
 		{"name": "Sage DS 16.10","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/DS/16.10/SageDS_16_10.exe"},
 		{"name": "Jeu d'essai v8","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/8.00/Logiciel/JeudEssai/sqlserveur/JESQL.exe"}
 	],

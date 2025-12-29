@@ -24,8 +24,8 @@
 		{"name": "Immobilisations", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Immo/Immo100c_1210.exe"},
 		{"name": "Tresorerie", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Treso/Treso100c_1210.exe"},
 		{"name": "Objets Metiers", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Autre/Objets100c_1210.exe"},
-		{"name": "Gestion de Production - 1ere installation", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100c_1200.exe"},
-		{"name": "Gestion de Production - Mise a jour", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100cMaj_1200.exe"},
+		{"name": "Gestion de Production - 1ere installation", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100c_1210.exe"},
+		{"name": "Gestion de Production - Mise a jour", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100cMaj_1210.exe"},
 		{"name": "CRM Force de Vente/Service","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/CRM/Crm100c_1200.iso"},
 		{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_1200.exe"}
 	],
@@ -74,6 +74,7 @@
 		{"name": "Supporia v18 pour Sage 100 i7 v8","url": "http://burdpme.sage.com.dl1.ipercast.net/PME/Common/Supporia/Supporia1801.zip"}
 	],
 	"Migration Online/SPC": [
+		{"name": "Sage Onlive Converter v12.10","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Maintenance/SOC_pour_100_V1210.zip"},
 		{"name": "Sage Onlive Converter v12","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Maintenance/SOC_pour_100_V12.zip"},
 		{"name": "Sage Online Converter v11","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Maintenance/SOC_pour_100_V11.zip"},
 		{"name": "Migration Sage 100 Paie Heberge/SPC v8.10", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/8.10/PaieMigrationAzure8.10_vers_2025.5.zip"},
@@ -82,7 +83,6 @@
 		{"name": "Documentation outil migration Paie 8.00", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V800.pdf"}
 	],
 	"Connecteurs": [
-		{"name": "Sage 100 Supervisor (RFE)","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/SetupSupervisor.exe"},
 		{"name": "SRC - Connecteur 7.2","url":"https://adewc-d002-b118-as3-p1-3ae5fe7f2-01.s3.eu-central-1.amazonaws.com/clearnox-connector/clearnox-connector-7-2-0-0.msi"},
 		{"name": "SRC x PDF by AIG","url":"http://rfe.shriko.fr/AIG-SRCxPDF.zip"},
 		{"name": "ACS - Console Live","url" : "https://download.akaolife.com/SmithConnector/Setup/ACS/SetupSmithConnector.msi"},

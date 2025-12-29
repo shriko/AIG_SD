@@ -44,15 +44,18 @@
 		{"name": "ABA v7","url": "https://rfe.shriko.fr/ABA-AutomatisationBancaire V7-2.0.0.msi"}
 	],
 	"Sage Etats Comptables & Fiscaux": [
+		{"name": "Sage Etats Comptables & Fiscaux v19.10","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/ECF/19.10/Ecfi7_1910.exe"},
 		{"name": "Sage Etats Comptables & Fiscaux v19.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/ECF/19.00/Ecfi7_1900.exe"},
 		{"name": "Sage Etats Comptables & Fiscaux v18.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/ECF/18.00/Ecfi7_1800.exe"}
 	],
 	"Sage Direct / Sage Serveur": [
 		{"name": "Sage Direct 8.5.0","url" : "https://burdpme.sage.com.dl1.ipercast.net/produits/direcTel/Sagedirect_8.5.0.exe"},
 		{"name": "Sage Serveur Windows v30","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3000.exe"},
-		{"name": "Sage Serveur Windows v31","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3100.exe"}
+		{"name": "Sage Serveur Windows v31","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3100.exe"},
+		{"name": "Sage Serveur Windows v31.1","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3110.exe"}
 	],
 	"Sage BI": [
+		{"name": "Sage Business Reporting 25.12","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/Sage_Business_Reporting_25.12.exe"},
 		{"name": "Sage Business Reporting 25.3","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/BIReporting_100.exe"},
 		{"name": "Sage BI Reporting 24.10","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/SageBIReporting24.10.0.9.exe"},
 		{"name": "Sage BI Reporting 24.3.3","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/SageBIReporting24.3.3.1.exe"},

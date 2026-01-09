@@ -80,6 +80,8 @@
 		{"name": "Sage Onlive Converter v12.10","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Maintenance/SOC_pour_100_V1210.zip"},
 		{"name": "Sage Onlive Converter v12","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Maintenance/SOC_pour_100_V12.zip"},
 		{"name": "Sage Online Converter v11","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Maintenance/SOC_pour_100_V11.zip"},
+		{"name": "Migration Sage 100 Paie Heberge/SPC v8.11", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/8.11/PaieMigrationAzure8.11_vers_2025.6.zip"},
+		{"name": "Documentation outil migration Paie 8.11", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V811.pdf"},
 		{"name": "Migration Sage 100 Paie Heberge/SPC v8.10", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/8.10/PaieMigrationAzure8.10_vers_2025.5.zip"},
 		{"name": "Documentation outil migration Paie 8.10", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V810.pdf"},
 		{"name": "Migration Sage 100 Paie Heberge/SPC v8.00", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/8.00/PaieMigrationAzure8.00_vers_2025.3.zip"},

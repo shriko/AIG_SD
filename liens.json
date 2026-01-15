@@ -222,7 +222,7 @@
 			{"name": "Sage DS 15.11.1","url": "http://burdpme.sage.com.dl1.ipercast.net/PME/DS/15.11.1/SageDS_15_11_1.exe"},
 			{"name": "Jeu d'essai v7","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/7.00/Logiciel/JeudEssai/sqlserveur/JESQL.exe"}
 		]
-	}
+	},
 	"Sage BI - Anciennes versions": [
 		{"name": "Sage Business Reporting 25.3","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/BIReporting_100.exe"},
 		{"name": "Sage BI Reporting 24.3.3","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/SageBIReporting24.3.3.1.exe"},

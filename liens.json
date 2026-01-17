@@ -29,7 +29,7 @@
 	  	{"name": "Gestion de Production - 1ere installation", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/GesProd100c_1210.exe"},
 	  	{"name": "Gestion de Production - Mise a jour", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/GesProd100cMaj_1210.exe"},
 	  	{"name": "CRM Force de Vente/Service","url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Crm100c_1200.iso"},
-	  	{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/ws100/WebServ_1200.exe"}
+	  	{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/WebServ_1200.exe"}
 	],
 	"Sage Paie v8.xx": [
 		{"name": "Paie 8.00","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/Paie_100_800.exe"},

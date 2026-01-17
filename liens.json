@@ -82,10 +82,10 @@
 		{"name": "Migration Sage 100 Paie Heberge/SPC v8.10", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/8.10/PaieMigrationAzure8.10_vers_2025.5.zip"},
 		{"name": "Documentation outil migration Paie 8.10", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V810.pdf"},
 		{"name": "VisuPDF SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/VisuPDF_060825.zip"},
-		{"name": "Export Multimedia", "url": "rfe.shriko.fr/SOURCES/OUTILSSPC/ExportMultimedia_040725.zip"},
-		{"name": "Optimisation SPC", "url": "rfe.shriko.fr/SOURCES/OUTILSSPC/OptimisationSPC_160126.zip"},
-		{"name": "Install SRC SPC", "url": "rfe.shriko.fr/SOURCES/OUTILSSPC/InstallSRC_SPC_300125.zip"},
-		{"name": "Synchro Factures SPC", "url": "rfe.shriko.fr/SOURCES/OUTILSSPC/SynchroFacturesSRC_100125.zip"}
+		{"name": "Export Multimedia", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/ExportMultimedia_040725.zip"},
+		{"name": "Optimisation SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/OptimisationSPC_160126.zip"},
+		{"name": "Install SRC SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/InstallSRC_SPC_300125.zip"},
+		{"name": "Synchro Factures SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/SynchroFacturesSRC_100125.zip"}
 	],
 	"Connecteurs": [
 		{"name": "SRC - Connecteur 7.2","url":"https://adewc-d002-b118-as3-p1-3ae5fe7f2-01.s3.eu-central-1.amazonaws.com/clearnox-connector/clearnox-connector-7-2-0-0.msi"},
@@ -128,7 +128,10 @@
 		{"name": "V7","url":"https://bumge.sage.com.dl1.ipercast.net/SageFRP1000/700/SageFRP1000V7-DVD97310515.iso"},
 		{"name": "V7 ext ed","url":"https://bumge.sage.com.dl1.ipercast.net/SageFRP1000/700/SageFRPTreasuryExtendedEditionV7-DVD97810015.iso"}
 	],
-	"Sage 100 - Anciennes versions": {
+	"Sage 50":[
+		{"name": "Sage 50 v6.3","url":"rfe.shriko.fr/SOURCES/WS50S630.exe"}
+	],
+	"Anciennes versions Sage 100": {
 		"Sage 100 v11": [
         	{"name": "Partie Serveur", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_1100.exe"},
         	{"name": "Partie Cliente", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServCli100c_1100.exe"},
@@ -219,7 +222,7 @@
 			{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "http://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_600.exe"}
 		]
 	},
-	"Sage Paie - Anciennes versions": {
+	"Anciennes versions Sage Paie": {
 		"Sage Paie v7": [
 			{"name": "Paie 7.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/7.00/Logiciel/Paie100/Sage100Paie.exe"},
 			{"name": "Update 7.10","url": "https://burdpme.sage.com.dl1.ipercast.net/PaieV1610/7.10/Paie_100_710.exe"},
@@ -228,7 +231,7 @@
 			{"name": "Jeu d'essai v7","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/7.00/Logiciel/JeudEssai/sqlserveur/JESQL.exe"}
 		]
 	},
-	"Sage BI - Anciennes versions": [
+	"Anciennes versions Sage BI": [
 		{"name": "Sage Business Reporting 25.3","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/BIReporting_100.exe"},
 		{"name": "Sage BI Reporting 24.3.3","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/SageBIReporting24.3.3.1.exe"},
 		{"name": "Sage BI Reporting 24.3.1","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/SageBIReporting24.3.1.0.exe"},

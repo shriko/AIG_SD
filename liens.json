@@ -106,7 +106,7 @@
 		{"name": "V1.2.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V1.2.0.exe"}
 	],
 	"Batigest Light sans SQL pour MAJ": [
-		{"name": "V8.5.2","url":"https://rfe.shriko.fr/SOURCES/BATIGEST/Sage_Batigest_Connect_V8.5.2_Light.exe"},
+		{"name": "V8.5.2","url":"https://rfe.shriko.fr/SOURCES/BATIGESTLIGHT/Sage_Batigest_Connect_V8.5.2_Light.exe"},
 		{"name": "V8.0.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V8.0.0_Light.exe"},
 		{"name": "V7.0.1","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V7.0.1_Light.exe"},
 		{"name": "V6.5","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V6.5.0_Light.exe"},

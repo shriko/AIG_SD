@@ -34,7 +34,8 @@
 		{"name": "Paie 8.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/8.00/Logiciel/Paie100/Sage100Paie.exe"},
 		{"name": "Update 8.11","url": "https://burdpme.sage.com.dl1.ipercast.net/PaieV1710/8.11/Paie_100_811.exe"},
 		{"name": "Sage DS 16.10","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/DS/16.10/SageDS_16_10.exe"},
-		{"name": "Jeu d'essai v8","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/8.00/Logiciel/JeudEssai/sqlserveur/JESQL.exe"}
+		{"name": "Jeu d'essai v8","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/8.00/Logiciel/JeudEssai/sqlserveur/JESQL.exe"},
+		{"name": "Test partage aig","url": "https://partage.aig.fr/downloadFile?id=F4SvzGPaN7KcdUh"}
 	],
 	"A.B.A. - Automatisation Bancaire by Alliances": [
 		{"name": "ABA v12","url": "https://rfe.shriko.fr/ABA-AutomatisationBancaire V12-2.0.0.msi"},

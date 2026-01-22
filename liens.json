@@ -50,7 +50,8 @@
 		{"name": "Sage Etats Comptables & Fiscaux v19.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/ECF/19.00/Ecfi7_1900.exe"},
 		{"name": "Sage Etats Comptables & Fiscaux v18.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/ECF/18.00/Ecfi7_1800.exe"}
 	],
-	"Sage Direct / Sage Serveur": [
+	"Sage Direct / Sage Serveur / Supervisor": [
+		{"name": "Sage 100 Supervisor 2.00 (uniquement si client en phase test RFE)","url" : "https://rfe.shriko.fr/SOURCES/COMMUNS/SetupSupervisor_200.exe"},
 		{"name": "Sage Direct 8.5.0","url" : "https://rfe.shriko.fr/SOURCES/COMMUNS/Sagedirect_8.5.0.exe"},
 		{"name": "Sage Serveur Windows v31.1","url":"https://rfe.shriko.fr/SOURCES/COMMUNS/ServWin_3110.exe"},
 		{"name": "Sage Serveur Windows v31","url":"https://rfe.shriko.fr/SOURCES/COMMUNS/ServWin_3100.exe"},

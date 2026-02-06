@@ -16,15 +16,15 @@
 		{"name": "HeidiSQL","url": "https://www.heidisql.com/downloads/releases/HeidiSQL_12.10_64_Portable.zip"},
 		{"name": "AIG Sauvegarde SQL", "url": "https://rfe.shriko.fr/SOURCES/SQL/SetupSauvegardeSQL_V1_5.msi"}
 	],
-	"Sage 100 v12.1x": [
+	"Sage 100 v12.10": [
 	  	{"name": "Partie Serveur", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/ServSQL100c_1210.exe"},
     	{"name": "Partie Cliente", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/ServCli100c_1210.exe"},
-	 	{"name": "Entreprise / SCF", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/ERP/Erp100c_1211.exe"},
-    	{"name": "Comptabilite", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Compta/Compta100c_1211.exe"},
-	 	{"name": "Gestion Commerciale", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Gescom/Gescom100c_1211.exe"},
-	 	{"name": "Moyens de Paiement", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Mdp/Mdp100c_1211.exe"},
-	 	{"name": "Immobilisations", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Immo/Immo100c_1211.exe"},
-	 	{"name": "Tresorerie", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Treso/Treso100c_1211.exe"},
+	 	{"name": "Entreprise / SCF", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Erp100c_1210.exe"},
+    	{"name": "Comptabilite", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Compta100c_1210.exe"},
+	 	{"name": "Gestion Commerciale", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Gescom100c_1210.exe"},
+	 	{"name": "Moyens de Paiement", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Mdp100c_1210.exe"},
+	 	{"name": "Immobilisations", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Immo100c_1210.exe"},
+	 	{"name": "Tresorerie", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Treso100c_1210.exe"},,
 	  	{"name": "Objets Metiers", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Objets100c_1210.exe"},
 	  	{"name": "Gestion de Production - 1ere installation", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/GesProd100c_1210.exe"},
 	  	{"name": "Gestion de Production - Mise a jour", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/GesProd100cMaj_1210.exe"},

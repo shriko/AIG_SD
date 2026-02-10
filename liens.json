@@ -2,7 +2,7 @@
 	"Microsoft SQL Server": [
 		{"name": "SQL Server 2022 Runtime (FR)", "url": "https://rfe.shriko.fr/SOURCES/SQL/SQL_SERVER_2022_FR.zip"},
 		{"name": "SQL Server 2022 Express Advanced Services (FR)", "url": "http://rfe.shriko.fr/SOURCES/SQL/SQLEXPRADV_2022_x64_FRA.exe"},
-		{"name": "SQL Server 2022 Cumulative Update", "url": "https://download.microsoft.com/download/a89001cb-9c99-48d3-9f14-ded054b35fe4/SQLServer2022-KB5068450-x64.exe"},
+		{"name": "SQL Server 2022 Cumulative Update", "url": "http://rfe.shriko.fr/SOURCES/SQL/SQLServer2022-KB5078297-x64"},
 		{"name": "SQL Server 2025 Express (FR)", "url": "http://rfe.shriko.fr/SOURCES/SQL/SQLEXPR_2025_x64_FRA.exe"},
 		{"name": "SQL Server 2019 Runtime (FR)", "url": "https://rfe.shriko.fr/SOURCES/SQL/SAGE_SQL_SERVER_2019_FR.zip"},
 		{"name": "SQL Server 2019 Express Advanced Services (FR)", "url": "https://download.microsoft.com/download/8/c/1/8c19e6c3-dde1-49ea-a4f5-e261671cc302/SQLEXPRADV_x64_FRA.exe"},

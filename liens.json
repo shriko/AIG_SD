@@ -29,7 +29,8 @@
 	  	{"name": "Gestion de Production - 1ere installation", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/GesProd100c_1210.exe"},
 	  	{"name": "Gestion de Production - Mise a jour", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/GesProd100cMaj_1210.exe"},
 	  	{"name": "CRM Force de Vente/Service","url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Crm100c_1200.iso"},
-	  	{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/WebServ_1200.exe"}
+	  	{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/WebServ_1200.exe"},
+		{"name": "Sage Superviseur (pour RFE)","url" : "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/SetupSupervisor.exe"}
 	],
 	"Sage Paie v8.xx": [
 		{"name": "Paie 8.00","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/Paie_100_800.exe"},
@@ -46,44 +47,38 @@
 		{"name": "ABA v7","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V7-2.4.0.msi"}
 	],
 	"Sage Etats Comptables & Fiscaux": [
-		{"name": "Sage Etats Comptables & Fiscaux v19.10","url": "https://rfe.shriko.fr/SOURCES/ECF/Ecfi7_1910.exe"},
-		{"name": "Sage Etats Comptables & Fiscaux v19.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/ECF/19.00/Ecfi7_1900.exe"},
-		{"name": "Sage Etats Comptables & Fiscaux v18.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/ECF/18.00/Ecfi7_1800.exe"}
+		{"name": "Sage Etats Comptables & Fiscaux v19.14","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/ECF/19.10/Ecfi7_1914.exe"},
+		{"name": "Sage Etats Comptables & Fiscaux v19.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/ECF/19.00/Ecfi7_1900.exe"}
 	],
 	"Sage Direct / Sage Serveur / Supervisor": [
-		{"name": "Sage 100 Supervisor 2.01 (uniquement si client en phase test RFE)","url" : "https://rfe.shriko.fr/SOURCES/COMMUNS/SetupSupervisor_201.exe"},
-		{"name": "Sage Direct 9.0.0","url" : "https://rfe.shriko.fr/SOURCES/COMMUNS/Sagedirect_9.0.0.exe"},
-		{"name": "Sage Direct 8.5.0","url" : "https://rfe.shriko.fr/SOURCES/COMMUNS/Sagedirect_8.5.0.exe"},
-		{"name": "Sage Serveur Windows v31.1","url":"https://rfe.shriko.fr/SOURCES/COMMUNS/ServWin_3110.exe"},
-		{"name": "Sage Serveur Windows v31","url":"https://rfe.shriko.fr/SOURCES/COMMUNS/ServWin_3100.exe"},
-		{"name": "Sage Serveur Windows v30","url":"https://rfe.shriko.fr/SOURCES/COMMUNS/ServWin_3000.exe"}
+		{"name": "Sage Direct 9.0.0","url" : "https://burdpme.sage.com.dl1.ipercast.net/produits/direcTel/Sagedirect_9.0.0.exe"},
+		{"name": "Sage Serveur Windows v31.1","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3110.exe"},
+		{"name": "Sage Serveur Windows v31","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3100.exe"},
+		{"name": "Sage Serveur Windows v30","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3000.exe"}
 	],
 	"Sage BI": [
 		{"name": "Sage Business Reporting 25.12","url":"https://rfe.shriko.fr/SOURCES/SAGEBI/Sage_Business_Reporting_25.12.exe"},
 		{"name": "Sage BI Reporting 24.10","url":"https://rfe.shriko.fr/SOURCES/SAGEBI/SageBIReporting24.10.0.9.exe"}
 	],
 	"Supporia" : [
-		{"name": "Supporia v30.10 pour Sage 100 v12.1x","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_3010.zip"},
-		{"name": "Supporia v30 pour Sage 100 v12","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_3000.zip"},
-		{"name": "Supporia v29 pour Sage 100 v11","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2900.zip"},
-		{"name": "Supporia v28 pour Sage 100 v10","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2800.zip"},
-		{"name": "Supporia v27 pour Sage 100 v9","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2700.zip"},
-		{"name": "Supporia v26 pour Sage 100 v8","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2600.zip"},
-		{"name": "Supporia v25 pour Sage 100 v7","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2500.zip"},
-		{"name": "Supporia v24 pour Sage 100 v6","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2400.zip"},
-		{"name": "Supporia v23 pour Sage 100 v5","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2300.zip"},
+		{"name": "Supporia v30.10 pour Sage 100 v12.1x","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_3010.zip"},
+		{"name": "Supporia v30 pour Sage 100 v12","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_3000.zip"},
+		{"name": "Supporia v29 pour Sage 100 v11","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2900.zip"},
+		{"name": "Supporia v28 pour Sage 100 v10","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2800.zip"},
+		{"name": "Supporia v27 pour Sage 100 v9","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2700.zip"},
+		{"name": "Supporia v26 pour Sage 100 v8","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2600.zip"},
+		{"name": "Supporia v25 pour Sage 100 v7","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2500.zip"},
+		{"name": "Supporia v24 pour Sage 100 v6","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2400.zip"},
+		{"name": "Supporia v23 pour Sage 100 v5","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2300.zip"},
 		{"name": "Supporia v21 pour Sage 100 v3 et v4","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2110.zip"},
 		{"name": "Supporia v20 pour Sage 100 v2","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2000.zip"},
 		{"name": "Supporia v19 pour Sage 100 v1","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_1900.zip"},
 		{"name": "Supporia v18 pour Sage 100 i7 v8","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/Supporia1801.zip"}
 	],
 	"Outils SPC": [
-		{"name": "Sage Onlive Converter v12.10","url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/SOC_pour_100_V1210.zip"},
-		{"name": "Sage Onlive Converter v12.00","url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/SOC_pour_100_V1200.zip"},
-		{"name": "Migration Sage 100 Paie Heberge/SPC v8.11", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/PaieMigrationAzure8.11_vers_2025.6.zip"},
-		{"name": "Documentation outil migration Paie 8.11", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/Assistant_de_migration_Sage_Online_V811.pdf"},
-		{"name": "Migration Sage 100 Paie Heberge/SPC v8.10", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/8.10/PaieMigrationAzure8.10_vers_2025.5.zip"},
-		{"name": "Documentation outil migration Paie 8.10", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V810.pdf"},
+		{"name": "Sage Onlive Converter v12.10","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Maintenance/SOC_pour_100_V1210.zip"},
+		{"name": "Migration Sage 100 Paie Heberge/SPC v8.12", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/8.12/PaieMigrationAzure8.12_vers_2025.6.2.zip"},
+		{"name": "Documentation outil migration Paie 8.12", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V812.pdf"},
 		{"name": "VisuPDF SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/VisuPDF_060825.zip"},
 		{"name": "Export Multimedia", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/ExportMultimedia_040725.zip"},
 		{"name": "Optimisation SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/OptimisationSPC_160126.zip"},
@@ -97,7 +92,7 @@
 		{"name": "TransfertBanque - ComptaSync","url": "https://www.transfertbanque.fr/appli/Connecteur/ComptaSync.msi"}
 	],
 	"Batigest avec SQL": [
-		{"name": "v8.5.2","url":"https://rfe.shriko.fr/SOURCES/BATIGEST/Sage_Batigest_Connect_V8.5.2.exe"},
+		{"name": "v8.5.2","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V8.5.2.exe"},
 		{"name": "V8.0.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V8.0.0.exe"},
 		{"name": "V7.0.1","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V7.0.1.exe"},
 		{"name": "V6.5","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V6.5.0.exe"},
@@ -109,7 +104,7 @@
 		{"name": "V1.2.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V1.2.0.exe"}
 	],
 	"Batigest Light sans SQL pour MAJ": [
-		{"name": "V8.5.2","url":"https://rfe.shriko.fr/SOURCES/BATIGESTLIGHT/Sage_Batigest_Connect_V8.5.2_Light.exe"},
+		{"name": "V8.5.2","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V8.5.2_Light.exe"},
 		{"name": "V8.0.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V8.0.0_Light.exe"},
 		{"name": "V7.0.1","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V7.0.1_Light.exe"},
 		{"name": "V6.5","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V6.5.0_Light.exe"},
@@ -120,7 +115,7 @@
 		{"name": "V2.2.1","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V2.2.1_Light.exe"}
 	],	
 	"Sage FRP 1000":[
-		{"name": "V11","url":"https://rfe.shriko.fr/SOURCES/FRP1000/setup_v11.zip"},
+		{"name": "V11","url":"https://bumge.sage.com.dl1.ipercast.net/SageFRP1000/1100/setup.zip"},
 		{"name": "V10","url":"https://bumge.sage.com.dl1.ipercast.net/SageFRP1000/1000/setup.zip"},
 		{"name": "V9","url":"https://bumge.sage.com.dl1.ipercast.net/SageFRP1000/900/sagefrp1000-900.iso"},
 		{"name": "V9 ext ed","url":"https://bumge.sage.com.dl1.ipercast.net/SageFRP1000/900/sagefrp1000Extended-900.iso"},
@@ -135,6 +130,21 @@
 		{"name": "Sage 50 v6.3","url":"https://rfe.shriko.fr/SOURCES/WS50S630.exe"}
 	],
 	"Anciennes versions Sage 100": {
+		"Sage 100 v12": [
+        	{"name": "Partie Serveur", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_1200.exe"},
+        	{"name": "Partie Cliente", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServCli100c_1200.exe"},
+			{"name": "Entreprise / SCF", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/ERP/Erp100c_1200.exe"},
+      		{"name": "Comptabilite", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Compta/Compta100c_1200.exe"},
+			{"name": "Gestion Commerciale", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Gescom/Gescom100c_1200.exe"},
+			{"name": "Moyens de Paiement", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Mdp/Mdp100c_1200.exe"},
+			{"name": "Immobilisations", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Immo/Immo100c_1200.exe"},
+			{"name": "Tresorerie", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Treso/Treso100c_1200.exe"},
+			{"name": "Objets Metiers", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Autre/Objets100c_1200.exe"},
+			{"name": "Gestion de Production - 1ere installation", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100c_1200.exe"},
+			{"name": "Gestion de Production - Mise a jour", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100cMaj_1200.exe"},
+			{"name": "CRM Force de Vente/Service","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/CRM/Crm100c_1200.iso"},
+			{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_1200.exe"}
+		],
 		"Sage 100 v11": [
         	{"name": "Partie Serveur", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_1100.exe"},
         	{"name": "Partie Cliente", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServCli100c_1100.exe"},

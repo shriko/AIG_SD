@@ -19,9 +19,9 @@
 	"Sage 100 v12.1x": [
 	  	{"name": "Partie Serveur", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/ServSQL100c_1210.exe"},
     	{"name": "Partie Cliente", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/ServCli100c_1210.exe"},
-	 	{"name": "Entreprise / SCF", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Erp100c_1211.exe"},
+	 	{"name": "Entreprise / SCF", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Erp100c_1212.exe"},
     	{"name": "Comptabilite", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Compta100c_1211.exe"},
-	 	{"name": "Gestion Commerciale", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Gescom100c_1211.exe"},
+	 	{"name": "Gestion Commerciale", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Gescom100c_1212.exe"},
 	 	{"name": "Moyens de Paiement", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Mdp100c_1211.exe"},
 	 	{"name": "Immobilisations", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Immo100c_1211.exe"},
 	 	{"name": "Tresorerie", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Treso100c_1211.exe"},
@@ -39,19 +39,19 @@
 		{"name": "Jeu d'essai v8","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/JESQL.exe"}
 	],
 	"A.B.A. - Automatisation Bancaire by Alliances": [
-		{"name": "ABA v12","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V12-2.4.0.msi"},
-		{"name": "ABA v11","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V11-2.4.0.msi"},
-		{"name": "ABA v10","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V10-2.4.0.msi"},
-		{"name": "ABA v9","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V9-2.4.0.msi"},
-		{"name": "ABA v8","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V8-2.4.0.msi"},
-		{"name": "ABA v7","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V7-2.4.0.msi"}
+		{"name": "ABA v12","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V12-2.4.1.msi"},
+		{"name": "ABA v11","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V11-2.4.1.msi"},
+		{"name": "ABA v10","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V10-2.4.1.msi"},
+		{"name": "ABA v9","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V9-2.4.1.msi"},
+		{"name": "ABA v8","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V8-2.4.1.msi"},
+		{"name": "ABA v7","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V7-2.4.1.msi"}
 	],
 	"Sage Etats Comptables & Fiscaux": [
-		{"name": "Sage Etats Comptables & Fiscaux v19.14","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/ECF/19.10/Ecfi7_1914.exe"},
+		{"name": "Sage Etats Comptables & Fiscaux v19.14","url": "https://rfe.shriko.fr/SOURCES/ECF/Ecfi7_1914.exe"},
 		{"name": "Sage Etats Comptables & Fiscaux v19.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/ECF/19.00/Ecfi7_1900.exe"}
 	],
 	"Sage Direct / Sage Serveur / Supervisor": [
-		{"name": "Sage Direct 9.1.0","url" : "https://burdpme.sage.com.dl1.ipercast.net/produits/direcTel/Sagedirect_9.1.0.exe"},
+		{"name": "Sage Direct 9.1.0","url" : "https://rfe.shriko.fr/SOURCES/COMMUNS/Sagedirect_9.1.0.exe"},
 		{"name": "Sage Serveur Windows v31.1","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3110.exe"},
 		{"name": "Sage Serveur Windows v31","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3100.exe"},
 		{"name": "Sage Serveur Windows v30","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3000.exe"}
@@ -61,22 +61,22 @@
 		{"name": "Sage BI Reporting 24.10","url":"https://rfe.shriko.fr/SOURCES/SAGEBI/SageBIReporting24.10.0.9.exe"}
 	],
 	"Supporia" : [
-		{"name": "Supporia v30.10 pour Sage 100 v12.1x","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_3010.zip"},
-		{"name": "Supporia v30 pour Sage 100 v12","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_3000.zip"},
-		{"name": "Supporia v29 pour Sage 100 v11","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2900.zip"},
-		{"name": "Supporia v28 pour Sage 100 v10","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2800.zip"},
-		{"name": "Supporia v27 pour Sage 100 v9","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2700.zip"},
-		{"name": "Supporia v26 pour Sage 100 v8","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2600.zip"},
-		{"name": "Supporia v25 pour Sage 100 v7","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2500.zip"},
-		{"name": "Supporia v24 pour Sage 100 v6","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2400.zip"},
-		{"name": "Supporia v23 pour Sage 100 v5","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Supporia/supporia_2300.zip"},
+		{"name": "Supporia v30.10 pour Sage 100 v12.1x","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_3010.zip"},
+		{"name": "Supporia v30 pour Sage 100 v12","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_3000.zip"},
+		{"name": "Supporia v29 pour Sage 100 v11","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2900.zip"},
+		{"name": "Supporia v28 pour Sage 100 v10","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2800.zip"},
+		{"name": "Supporia v27 pour Sage 100 v9","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2700.zip"},
+		{"name": "Supporia v26 pour Sage 100 v8","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2600.zip"},
+		{"name": "Supporia v25 pour Sage 100 v7","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2500.zip"},
+		{"name": "Supporia v24 pour Sage 100 v6","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2400.zip"},
+		{"name": "Supporia v23 pour Sage 100 v5","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2300.zip"},
 		{"name": "Supporia v21 pour Sage 100 v3 et v4","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2110.zip"},
 		{"name": "Supporia v20 pour Sage 100 v2","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2000.zip"},
 		{"name": "Supporia v19 pour Sage 100 v1","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_1900.zip"},
 		{"name": "Supporia v18 pour Sage 100 i7 v8","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/Supporia1801.zip"}
 	],
 	"Outils SPC": [
-		{"name": "Sage Onlive Converter v12.10","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Maintenance/SOC_pour_100_V1210.zip"},
+		{"name": "Sage Onlive Converter v12.10","url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/SOC_pour_100_V1210.zip"},
 		{"name": "Migration Sage 100 Paie Heberge/SPC v8.12", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/8.12/PaieMigrationAzure8.12_vers_2025.6.2.zip"},
 		{"name": "Documentation outil migration Paie 8.12", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V812.pdf"},
 		{"name": "VisuPDF SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/VisuPDF_060825.zip"},

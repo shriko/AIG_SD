@@ -81,7 +81,7 @@
 		{"name": "Documentation outil migration Paie 8.12", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V812.pdf"},
 		{"name": "VisuPDF SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/VisuPDF_060825.zip"},
 		{"name": "Export Multimedia", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/ExportMultimedia_040725.zip"},
-		{"name": "Optimisation SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/OptimisationSPC_160126.zip"},
+		{"name": "Optimisation SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/OptimisationSPC_080426.zip"},
 		{"name": "Install SRC SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/InstallSRC_SPC_300125.zip"},
 		{"name": "Synchro Factures SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/SynchroFacturesSRC_100125.zip"}
 	],

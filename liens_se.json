@@ -1,0 +1,29 @@
+{
+	"Microsoft SQL Server": [
+		{"name": "SQL Server 2022 Runtime (FR)", "url": "https://rfe.shriko.fr/SOURCES/SQL/SQL_SERVER_2022_FR.zip"},
+		{"name": "SQL Server 2022 Express Advanced Services (FR)", "url": "http://rfe.shriko.fr/SOURCES/SQL/SQLEXPRADV_2022_x64_FRA.exe"},
+		{"name": "SQL Server 2022 Cumulative Update", "url": "http://rfe.shriko.fr/SOURCES/SQL/SQLServer2022-KB5078297-x64.exe"},
+		{"name": "SQL Server 2012 SP4 x64 (pour maj instance)", "url": "https://rfe.shriko.fr/SOURCES/SQL/SQLServer2012SP4-KB4018073-x64-FRA.exe"}
+	],
+	"Outils SQL": [
+		{"name": "SQL Serveur Management Studio 20 (FR)", "url": "https://download.microsoft.com/download/9/b/e/9bee9f00-2ee2-429a-9462-c9bc1ce14c28/SSMS-Setup-FRA.exe"}
+	],
+	"Sage 100 v12.xx": [
+	  {"name": "Partie Serveur - 12.10", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/ServSQL100c_1210.exe"},
+    {"name": "Partie Cliente - 12.10", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/ServCli100c_1210.exe"},
+	 	{"name": "Entreprise / SCF - 12.12", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Erp100c_1212.exe"},
+    {"name": "Comptabilite - 12.11", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Compta100c_1211.exe"},
+	 	{"name": "Gestion Commerciale - 12.12", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Gescom100c_1212.exe"},
+	 	{"name": "Moyens de Paiement - 12.11", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Mdp100c_1211.exe"},
+	 	{"name": "Immobilisations - 12.11", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Immo100c_1211.exe"},
+	 	{"name": "Tresorerie - 12.11", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Treso100c_1211.exe"},
+	  {"name": "Objets Metiers - 12.10", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Objets100c_1210.exe"},
+		{"name": "Sage Superviseur 2.x","url" : "https://rfe.shriko.fr/SOURCES/COMMUNS/SetupSupervisor_201.exe"}
+	],
+	"A.B.A. - Automatisation Bancaire by Alliances": [
+		{"name": "ABA 2.4.1 pour v12","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V12-2.4.1.msi"}
+	],
+	"Sage Direct": [
+		{"name": "Sage Direct 9.1.0","url" : "https://rfe.shriko.fr/SOURCES/COMMUNS/Sagedirect_9.1.0.exe"}
+	]
+}

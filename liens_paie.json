@@ -1,0 +1,27 @@
+{
+	"Microsoft SQL Server": [
+		{"name": "SQL Server 2022 Runtime (FR)", "url": "https://rfe.shriko.fr/SOURCES/SQL/SQL_SERVER_2022_FR.zip"},
+		{"name": "SQL Server 2022 Express Advanced Services (FR)", "url": "http://rfe.shriko.fr/SOURCES/SQL/SQLEXPRADV_2022_x64_FRA.exe"},
+		{"name": "SQL Server 2022 Cumulative Update", "url": "http://rfe.shriko.fr/SOURCES/SQL/SQLServer2022-KB5078297-x64.exe"},
+		{"name": "SQL Server 2012 SP4 x64 (pour maj instance)", "url": "https://rfe.shriko.fr/SOURCES/SQL/SQLServer2012SP4-KB4018073-x64-FRA.exe"}
+	],
+	"Outils SQL": [
+		{"name": "SQL Serveur Management Studio 20 (FR)", "url": "https://download.microsoft.com/download/9/b/e/9bee9f00-2ee2-429a-9462-c9bc1ce14c28/SSMS-Setup-FRA.exe"},
+		{"name": "Driver MS OLE DB 18.7.4","url": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/fr-FR/18.7.4.0/x64/msoledbsql.msi"}
+	],
+	"Sage Paie v8.xx": [
+		{"name": "Paie 8.00","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/Paie_100_800.exe"},
+		{"name": "Update 8.12","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/Paie_100_812.exe"},
+		{"name": "Sage DS 16.10.1","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/SageDS_16_10_1.exe"},
+		{"name": "Jeu d'essai v8","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/JESQL.exe"}
+	],
+	"Sage Direct / Sage Serveur": [
+		{"name": "Sage Direct 9.1.0","url" : "https://rfe.shriko.fr/SOURCES/COMMUNS/Sagedirect_9.1.0.exe"},
+		{"name": "Sage Serveur Windows v31.1","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3110.exe"}
+	],
+	"Sage BI": [
+		{"name": "Sage Business Reporting 25.12","url":"https://rfe.shriko.fr/SOURCES/SAGEBI/Sage_Business_Reporting_25.12.exe"},
+		{"name": "Sage BI Reporting 24.10","url":"https://rfe.shriko.fr/SOURCES/SAGEBI/SageBIReporting24.10.0.9.exe"}
+	],
+
+}

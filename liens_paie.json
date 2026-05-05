@@ -22,6 +22,5 @@
 	"Sage BI": [
 		{"name": "Sage Business Reporting 25.12","url":"https://rfe.shriko.fr/SOURCES/SAGEBI/Sage_Business_Reporting_25.12.exe"},
 		{"name": "Sage BI Reporting 24.10","url":"https://rfe.shriko.fr/SOURCES/SAGEBI/SageBIReporting24.10.0.9.exe"}
-	],
-
+	]
 }

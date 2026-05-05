@@ -34,8 +34,8 @@
 	],
 	"Sage Paie v8.xx": [
 		{"name": "Paie 8.00","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/Paie_100_800.exe"},
-		{"name": "Update 8.11","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/Paie_100_811.exe"},
-		{"name": "Sage DS 16.10","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/SageDS_16_10.exe"},
+		{"name": "Update 8.12","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/Paie_100_812.exe"},
+		{"name": "Sage DS 16.10.1","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/SageDS_16_10_1.exe"},
 		{"name": "Jeu d'essai v8","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/JESQL.exe"}
 	],
 	"A.B.A. - Automatisation Bancaire by Alliances": [

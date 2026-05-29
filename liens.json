@@ -39,12 +39,13 @@
 		{"name": "Jeu d'essai v8","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/JESQL.exe"}
 	],
 	"A.B.A. - Automatisation Bancaire by Alliances": [
-		{"name": "ABA v12","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V12-2.4.1.msi"},
-		{"name": "ABA v11","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V11-2.4.1.msi"},
-		{"name": "ABA v10","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V10-2.4.1.msi"},
-		{"name": "ABA v9","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V9-2.4.1.msi"},
-		{"name": "ABA v8","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V8-2.4.1.msi"},
-		{"name": "ABA v7","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V7-2.4.1.msi"}
+		{"name": "ABA v12","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V12-2.4.2.msi"},
+		{"name": "ABA v11","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V11-2.4.2.msi"},
+		{"name": "ABA v10","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V10-2.4.2.msi"},
+		{"name": "ABA v9","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V9-2.4.2.msi"},
+		{"name": "ABA v8","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V8-2.4.2.msi"},
+		{"name": "ABA v7","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V7-2.4.2.msi"},
+		{"name": "ABA v6","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V6-2.4.2.msi"}
 	],
 	"Sage Etats Comptables & Fiscaux": [
 		{"name": "Sage Etats Comptables & Fiscaux v19.14","url": "https://rfe.shriko.fr/SOURCES/ECF/Ecfi7_1914.exe"},

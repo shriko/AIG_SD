@@ -9,16 +9,16 @@
 		{"name": "SQL Serveur Management Studio 20 (FR)", "url": "https://download.microsoft.com/download/9/b/e/9bee9f00-2ee2-429a-9462-c9bc1ce14c28/SSMS-Setup-FRA.exe"}
 	],
 	"Sage 100 v12.xx": [
-	  {"name": "Partie Serveur - 12.10", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_1210.exe"},
-    {"name": "Partie Cliente - 12.10", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServCli100c_1210.exe"},
-	 	{"name": "Entreprise / SCF - 12.12", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Compta/Compta100c_1211.exe"},
-    {"name": "Comptabilite - 12.11", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Compta/Compta100c_1211.exe"},
-	 	{"name": "Gestion Commerciale - 12.12", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Gescom/Gescom100c_1212.exe"},
-	 	{"name": "Moyens de Paiement - 12.11", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Mdp/Mdp100c_1211.exe"},
-	 	{"name": "Immobilisations - 12.11", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Immo/Immo100c_1211.exe"},
-	 	{"name": "Tresorerie - 12.11", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Treso/Treso100c_1211.exe"},
+	  {"name": "Partie Serveur - 12.20", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_1220.exe"},
+    {"name": "Partie Cliente - 12.20", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServCli100c_1220.exe"},
+	 	{"name": "Entreprise / SCF - 12.20", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/ERP/Erp100c_1220.exe"},
+    {"name": "Comptabilite - 12.20", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Compta/Compta100c_1220.exe"},
+	 	{"name": "Gestion Commerciale - 12.20", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Gescom/Gescom100c_1220.exe"},
+	 	{"name": "Moyens de Paiement - 12.20", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Mdp/Mdp100c_1220.exe"},
+	 	{"name": "Immobilisations - 12.20", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Immo/Immo100c_1220.exe"},
+	 	{"name": "Tresorerie - 12.20", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Treso/Treso100c_1220.exe"},
 	  {"name": "Objets Metiers - 12.10", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Autre/Objets100c_1210.exe"},
-		{"name": "Sage Superviseur 2.x","url" : "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/SetupSupervisor.exe"}
+		{"name": "Sage Superviseur 3.x","url" : "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/Supervisor/3.00/SetupSupervisor.exe"}
 	],
 	"Sage Direct": [
 		{"name": "Sage Direct 9.1.0","url" : "https://burdpme.sage.com.dl1.ipercast.net/produits/direcTel/Sagedirect_9.1.0.exe"}

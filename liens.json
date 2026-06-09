@@ -1,6 +1,6 @@
 {
 	"Microsoft SQL Server": [
-		{"name": "SQL Server 2025 Runitme (FR)", "url": "https://rfe.shriko.fr/SOURCES/SQL/SQL_Std_2025_64Bit_French-15490.ISO"},
+		{"name": "SQL Server 2025 Runtime (FR)", "url": "https://rfe.shriko.fr/SOURCES/SQL/SQL_Std_2025_64Bit_French-15490.ISO"},
 		{"name": "SQL Server 2025 Express (FR)", "url": "http://rfe.shriko.fr/SOURCES/SQL/SQLEXPR_2025_x64_FRA.exe"},
 		{"name": "SQL Server 2025 Cumulative Update", "url": "http://rfe.shriko.fr/SOURCES/SQL/SQLServer2025-KB5084896-x64.exe"},
 		{"name": "SQL Server 2022 Runtime (FR)", "url": "https://rfe.shriko.fr/SOURCES/SQL/SQL_SERVER_2022_FR.zip"},

@@ -13,7 +13,7 @@
 	],
 	"Outils SQL": [
 		{"name": "SQL Server Management Studio 20 (FR)", "url": "https://download.microsoft.com/download/9/b/e/9bee9f00-2ee2-429a-9462-c9bc1ce14c28/SSMS-Setup-FRA.exe"},
-		{"name": "SQL Server Management Studio 22 (FR)", "url": "https://download.visualstudio.microsoft.com/download/pr/105ab965-3bff-41cb-a75d-b4020a784328/1497c1f0da4ebe4ddf8fa89c8d53f13bbe0fc0fa19e2971bb54d0dd48853de81/vs_SSMS.exe"}, 
+		{"name": "SQL Server Management Studio 22", "url": "https://download.visualstudio.microsoft.com/download/pr/105ab965-3bff-41cb-a75d-b4020a784328/1497c1f0da4ebe4ddf8fa89c8d53f13bbe0fc0fa19e2971bb54d0dd48853de81/vs_SSMS.exe"}, 
 		{"name": "Driver MS OLE DB 18.7.4","url": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/fr-FR/18.7.4.0/x64/msoledbsql.msi"},
 		{"name": "SQL Backup Master","url": "https://www.sqlbackupmaster.com/Content/download/sbm-setup.exe"},
 		{"name": "HeidiSQL","url": "https://www.heidisql.com/downloads/releases/HeidiSQL_12.10_64_Portable.zip"},

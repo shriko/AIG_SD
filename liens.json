@@ -60,7 +60,7 @@
 		{"name": "Sage Serveur Windows v30","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3000.exe"}
 	],
 	"Sage BI": [
-		{"name": "Sage Business Reporting 25.12","url":"https://rfe.shriko.fr/SOURCES/SAGEBI/Sage_Business_Reporting_25.12.exe"},
+		{"name": "Sage Business Reporting 26.1","url":"https://rfe.shriko.fr/SOURCES/SAGEBI/SageBIReporting_26.1.exe"},
 		{"name": "Sage BI Reporting 24.10","url":"https://rfe.shriko.fr/SOURCES/SAGEBI/SageBIReporting24.10.0.9.exe"}
 	],
 	"Supporia" : [

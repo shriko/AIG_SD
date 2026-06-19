@@ -35,11 +35,10 @@
 	  	{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/WebServ_1200.exe"},
 		{"name": "Sage Superviseur v3 (pour RFE)","url" : "https://rfe.shriko.fr/SOURCES/COMMUNS/SetupSupervisor_301.exe"}
 	],
-	"Sage Paie v8.xx": [
-		{"name": "Paie 8.00","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/Paie_100_800.exe"},
-		{"name": "Update 8.12","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/Paie_100_812.exe"},
-		{"name": "Sage DS 16.10.1","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/SageDS_16_10_1.exe"},
-		{"name": "Jeu d'essai v8","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/JESQL.exe"}
+	"Sage Paie v9.xx": [
+		{"name": "Paie 9.00","url": "https://rfe.shriko.fr/SOURCES/PAIE/v9/Paie_100_900.exe"},
+		{"name": "Sage DS 17.00","url": "https://rfe.shriko.fr/SOURCES/PAIE/v9/SageDS_1700.exe"},
+		{"name": "Jeu d'essai v9","url": "https://rfe.shriko.fr/SOURCES/PAIE/v9/JESQL_900.exe"}
 	],
 	"A.B.A. - Automatisation Bancaire by Alliances": [
 		{"name": "ABA v12","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V12-2.4.2.msi"},
@@ -82,14 +81,16 @@
 	],
 	"Outils SPC": [
 		{"name": "Sage Onlive Converter v12.20","url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/SOC_pour_100_V1220.zip"},
-		{"name": "Sage Onlive Converter v12.10","url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/SOC_pour_100_V1210.zip"},
-		{"name": "Migration Sage 100 Paie Heberge/SPC v8.12", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/8.12/PaieMigrationAzure8.12_vers_2025.6.2.zip"},
-		{"name": "Documentation outil migration Paie 8.12", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V812.pdf"},
+		{"name": "Migration Sage 100 Paie Heberge/SPC v9.00", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/PaieMigrationAzure9.00_vers_2026.1.zip"},
+		{"name": "Documentation outil migration Paie 9.00", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/Assistant_de_migration_Sage_Online_V900.pdf"},
 		{"name": "VisuPDF SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/VisuPDF_060825.zip"},
 		{"name": "Export Multimedia", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/ExportMultimedia_040725.zip"},
 		{"name": "Optimisation SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/OptimisationSPC_080426.zip"},
 		{"name": "Install SRC SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/InstallSRC_SPC_300125.zip"},
-		{"name": "Synchro Factures SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/SynchroFacturesSRC_100125.zip"}
+		{"name": "Synchro Factures SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/SynchroFacturesSRC_100125.zip"},
+		{"name": "Migration Sage 100 Paie Heberge/SPC v8.12", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/8.12/PaieMigrationAzure8.12_vers_2025.6.2.zip"},
+		{"name": "Documentation outil migration Paie 8.12", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V812.pdf"},
+		{"name": "Sage Onlive Converter v12.10","url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/SOC_pour_100_V1210.zip"}
 	],
 	"Connecteurs": [
 		{"name": "SRC - Connecteur 7.2","url":"https://adewc-d002-b118-as3-p1-3ae5fe7f2-01.s3.eu-central-1.amazonaws.com/clearnox-connector/clearnox-connector-7-2-0-0.msi"},
@@ -261,6 +262,12 @@
 		]
 	},
 	"Anciennes versions Sage Paie": {
+		"Sage Paie v8.xx": [
+			{"name": "Paie 8.00","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/Paie_100_800.exe"},
+			{"name": "Update 8.12","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/Paie_100_812.exe"},
+			{"name": "Sage DS 16.10.1","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/SageDS_16_10_1.exe"},
+			{"name": "Jeu d'essai v8","url": "https://rfe.shriko.fr/SOURCES/PAIE/v8/JESQL.exe"}
+		],
 		"Sage Paie v7": [
 			{"name": "Paie 7.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/7.00/Logiciel/Paie100/Sage100Paie.exe"},
 			{"name": "Update 7.10","url": "https://burdpme.sage.com.dl1.ipercast.net/PaieV1610/7.10/Paie_100_710.exe"},

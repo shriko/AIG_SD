@@ -20,8 +20,8 @@
 		{"name": "AIG Sauvegarde SQL", "url": "https://rfe.shriko.fr/SOURCES/SQL/SetupSauvegardeSQL_V1_5.msi"}
 	],
 	"Sage 100 v12.20": [
-	  	{"name": "Partie Serveur", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.20/ServSQL100c_1220.exe"},
-    	{"name": "Partie Cliente", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.20/ServCli100c_1220.exe"},
+	  	{"name": "Partie Serveur", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.20/ServSQL100c_1221.exe"},
+    	{"name": "Partie Cliente", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.20/ServCli100c_1221.exe"},
 	 	{"name": "Entreprise / SCF", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.20/Erp100c_1220.exe"},
     	{"name": "Comptabilite", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.20/Compta100c_1220.exe"},
 	 	{"name": "Gestion Commerciale", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.20/Gescom100c_1220.exe"},

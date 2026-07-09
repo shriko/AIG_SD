@@ -33,7 +33,7 @@
 	  	{"name": "Gestion de Production - Mise a jour", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/GesProd100cMaj_1210.exe"},
 	  	{"name": "CRM Force de Vente/Service","url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Crm100c_1200.iso"},
 	  	{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/WebServ_1200.exe"},
-		{"name": "Sage Superviseur v3 (pour RFE)","url" : "https://rfe.shriko.fr/SOURCES/COMMUNS/SetupSupervisor_301.exe"}
+		{"name": "Sage Superviseur v3.01 (pour RFE)","url" : "https://rfe.shriko.fr/SOURCES/COMMUNS/SetupSupervisor_301.exe"}
 	],
 	"Sage Paie v9.xx": [
 		{"name": "Paie 9.00","url": "https://rfe.shriko.fr/SOURCES/PAIE/v9/Paie_100_900.exe"},
@@ -56,6 +56,7 @@
 	],
 	"Sage Direct / Sage Serveur / Supervisor": [
 		{"name": "Sage Direct 9.1.0","url" : "https://rfe.shriko.fr/SOURCES/COMMUNS/Sagedirect_9.1.0.exe"},
+		{"name": "Sage Serveur Windows v31.2","url":"https://rfe.shriko.fr/SOURCES/COMMUNS/ServWin_3120.exe"},
 		{"name": "Sage Serveur Windows v31.1","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3110.exe"},
 		{"name": "Sage Serveur Windows v31","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3100.exe"},
 		{"name": "Sage Serveur Windows v30","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3000.exe"}
@@ -65,6 +66,7 @@
 		{"name": "Sage BI Reporting 24.10","url":"https://rfe.shriko.fr/SOURCES/SAGEBI/SageBIReporting24.10.0.9.exe"}
 	],
 	"Supporia" : [
+		{"name": "Supporia v30.20 pour Sage 100 v12.20","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_3020.zip"},
 		{"name": "Supporia v30.10 pour Sage 100 v12.1x","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_3010.zip"},
 		{"name": "Supporia v30 pour Sage 100 v12","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_3000.zip"},
 		{"name": "Supporia v29 pour Sage 100 v11","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_2900.zip"},

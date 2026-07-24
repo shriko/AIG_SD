@@ -50,14 +50,16 @@
 		{"name": "ABA v6","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V6-2.4.2.msi"}
 	],
 	"Sage Etats Comptables & Fiscaux": [
+		{"name": "Sage Etats Comptables & Fiscaux v19.25","url": "https://rfe.shriko.fr/SOURCES/ECF/Ecfi7_1925.exe"},
 		{"name": "Sage Etats Comptables & Fiscaux v19.20","url": "https://rfe.shriko.fr/SOURCES/ECF/Ecfi7_1920.exe"},
 		{"name": "Sage Etats Comptables & Fiscaux v19.14","url": "https://rfe.shriko.fr/SOURCES/ECF/Ecfi7_1914.exe"},
 		{"name": "Sage Etats Comptables & Fiscaux v19.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/ECF/19.00/Ecfi7_1900.exe"}
 	],
 	"Sage Direct / Sage Serveur / Supervisor": [
 		{"name": "Sage Direct 9.1.0","url" : "https://rfe.shriko.fr/SOURCES/COMMUNS/Sagedirect_9.1.0.exe"},
-		{"name": "Sage Serveur Windows v31.2","url":"https://rfe.shriko.fr/SOURCES/COMMUNS/ServWin_3120.exe"},
-		{"name": "Sage Serveur Windows v31.1","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3110.exe"},
+		{"name": "Sage Serveur Windows v31.25","url":"https://rfe.shriko.fr/SOURCES/COMMUNS/ServWin_3125.exe"},
+		{"name": "Sage Serveur Windows v31.20","url":"https://rfe.shriko.fr/SOURCES/COMMUNS/ServWin_3120.exe"},
+		{"name": "Sage Serveur Windows v31.10","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3110.exe"},
 		{"name": "Sage Serveur Windows v31","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3100.exe"},
 		{"name": "Sage Serveur Windows v30","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3000.exe"}
 	],

@@ -84,7 +84,7 @@
 		{"name": "Supporia v18 pour Sage 100 i7 v8","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/Supporia1801.zip"}
 	],
 	"Outils SPC": [
-		{"name": "Sage Onlive Converter v12.20","url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/SOC_pour_100_V1220.zip"},
+		{"name": "Sage Onlive Converter v12.25","url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/SOC_pour_100_V1225.zip"},
 		{"name": "Migration Sage 100 Paie Heberge/SPC v9.00", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/PaieMigrationAzure9.00_vers_2026.1.zip"},
 		{"name": "Documentation outil migration Paie 9.00", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/Assistant_de_migration_Sage_Online_V900.pdf"},
 		{"name": "VisuPDF SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/VisuPDF_060825.zip"},
@@ -94,6 +94,7 @@
 		{"name": "Synchro Factures SPC", "url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/SynchroFacturesSRC_100125.zip"},
 		{"name": "Migration Sage 100 Paie Heberge/SPC v8.12", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/8.12/PaieMigrationAzure8.12_vers_2025.6.2.zip"},
 		{"name": "Documentation outil migration Paie 8.12", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V812.pdf"},
+		{"name": "Sage Onlive Converter v12.20","url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/SOC_pour_100_V1220.zip"},
 		{"name": "Sage Onlive Converter v12.10","url": "https://rfe.shriko.fr/SOURCES/OUTILSSPC/SOC_pour_100_V1210.zip"}
 	],
 	"Connecteurs": [

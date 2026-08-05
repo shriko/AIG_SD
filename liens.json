@@ -20,7 +20,7 @@
 	  	{"name": "Partie Serveur", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.25/ServSQL100c_1225.exe"},
     	{"name": "Partie Cliente", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.25/ServCli100c_1225.exe"},
 	 	{"name": "Entreprise / SCF", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.25/Erp100c_1225.exe"},
-    	{"name": "Comptabilite", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.25/Compta100c_1225.exe"},
+    	{"name": "Comptabilite", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.25/Compta100c_1226.exe"},
 	 	{"name": "Gestion Commerciale", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.25/Gescom100c_1225.exe"},
 	 	{"name": "Moyens de Paiement", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.25/Mdp100c_1225.exe"},
 	 	{"name": "Immobilisations", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.25/Immo100c_1225.exe"},

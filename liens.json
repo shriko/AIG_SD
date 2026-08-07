@@ -65,6 +65,7 @@
 		{"name": "Sage BI Reporting 24.10","url":"https://rfe.shriko.fr/SOURCES/SAGEBI/SageBIReporting24.10.0.9.exe"}
 	],
 	"Supporia" : [
+		{"name": "Supporia v30.25 pour Sage 100 v12.20","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_3025.zip"},
 		{"name": "Supporia v30.20 pour Sage 100 v12.20","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_3020.zip"},
 		{"name": "Supporia v30.10 pour Sage 100 v12.1x","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_3010.zip"},
 		{"name": "Supporia v30 pour Sage 100 v12","url": "https://rfe.shriko.fr/SOURCES/SUPPORIA/supporia_3000.zip"},

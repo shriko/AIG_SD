@@ -26,11 +26,7 @@
 	 	{"name": "Moyens de Paiement", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.25/Mdp100c_1225.exe"},
 	 	{"name": "Immobilisations", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.25/Immo100c_1225.exe"},
 	 	{"name": "Tresorerie", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.25/Treso100c_1225.exe"},
-	  	{"name": "Objets Metiers", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.25/Objets100c_1225.exe"},
-	  	{"name": "Gestion de Production - 1ere installation", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/GesProd100c_1210.exe"},
-	  	{"name": "Gestion de Production - Mise a jour", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/GesProd100cMaj_1210.exe"},
-	  	{"name": "CRM Force de Vente/Service","url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Crm100c_1200.iso"},
-	  	{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/WebServ_1200.exe"}
+	  	{"name": "Objets Metiers", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.25/Objets100c_1225.exe"}
 	],
 	"Sage Paie v9.xx": [
 		{"name": "Paie 9.00","url": "https://rfe.shriko.fr/SOURCES/PAIE/v9/Paie_100_900.exe"},
@@ -101,6 +97,14 @@
 		{"name": "SRC x PDF by AIG","url":"http://rfe.shriko.fr/SOURCES/CONNECTEURS/AIG-SRCxPDF.zip"},
 		{"name": "ACS - Console Live","url" : "https://download.akaolife.com/SmithConnector/Setup/ACS/SetupSmithConnector.msi"},
 		{"name": "TransfertBanque - ComptaSync","url": "https://www.transfertbanque.fr/appli/Connecteur/ComptaSync.msi"}
+	],
+	"Gestion Production": [
+		{"name": "Gestion de Production - 1ere installation", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/GesProd100c_1210.exe"},
+	  	{"name": "Gestion de Production - Mise a jour", "url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/GesProd100cMaj_1210.exe"}
+	],
+	"Sage CRM": [
+		{"name": "CRM Force de Vente/Service","url": "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/Crm100c_1200.iso"},
+	  	{"name": "Service Web d'intégration Gestion Commerciale pour CRM","url" : "https://rfe.shriko.fr/SOURCES/SAGE100/v12.10/WebServ_1200.exe"}
 	],
 	"Batigest avec SQL": [
 		{"name": "v9.1.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V9.1.0.exe"},

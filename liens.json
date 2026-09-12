@@ -38,6 +38,7 @@
 		{"name": "Jeu d'essai v9","url": "https://rfe.shriko.fr/SOURCES/PAIE/v9/JESQL_900.exe"}
 	],
 	"A.B.A. - Automatisation Bancaire by Alliances": [
+		{"name": "Test filebrowser","url": "https://dl.lech.fr/public/api/resources/download?hash=79xj4aCrTShkNQWDcH55tA"},
 		{"name": "ABA v12","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V12-2.4.2.msi"},
 		{"name": "ABA v11","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V11-2.4.2.msi"},
 		{"name": "ABA v10","url": "https://rfe.shriko.fr/SOURCES/ABA/ABA-AutomatisationBancaire V10-2.4.2.msi"},

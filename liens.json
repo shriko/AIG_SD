@@ -101,6 +101,7 @@
 	  	{"name": "Service Web d'intégration Gestion Commerciale pour CRM 12.00","url" : "https://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_1200.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=rdNNBmsRmePWM_kapFQFKg"}
 	],
 	"Batigest avec SQL": [
+		{"name": "v10.0.1","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V10.0.1.exe"},
 		{"name": "v9.1.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V9.1.0.exe"},
 		{"name": "v8.5.2","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V8.5.2.exe"},
 		{"name": "V8.0.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V8.0.0.exe"},
@@ -114,6 +115,7 @@
 		{"name": "V1.2.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V1.2.0.exe"}
 	],
 	"Batigest Light sans SQL pour MAJ": [
+		{"name": "v10.0.1","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V10.0.1_Light.exe"},
 		{"name": "v9.1.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V9.1.0_Light.exe"},
 		{"name": "V8.5.2","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V8.5.2_Light.exe"},
 		{"name": "V8.0.0","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V8.0.0_Light.exe"},

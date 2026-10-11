@@ -16,13 +16,13 @@
 		{"name": "HeidiSQL","url": "https://www.heidisql.com/downloads/releases/HeidiSQL_12.10_64_Portable.zip"},
 		{"name": "AIG Sauvegarde SQL", "url": "https://dl.lech.fr/public/api/resources/download?hash=5W1NI160a5oi4BdJDZd1Sg"}
 	],
-	"Sage 100 v12.2x": [
+	"Sage 100 v12.25|28": [
 	  	{"name": "Partie Serveur", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=aEyi0B14E-Fgcdt9WT23VA"},
     	{"name": "Partie Cliente", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServCli100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=aEyi0B14E-Fgcdt9WT23VA"},
-		{"name": "Sage Superviseur v4.10","url" : "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/Supervisor/4.10/SetupSupervisor.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=aEyi0B14E-Fgcdt9WT23VA"},
-	 	{"name": "Entreprise / SCF", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/ERP/Erp100c_1227.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=f46SwtET3x8Vu7gij5NxOw"},
-    	{"name": "Comptabilite", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Compta/Compta100c_1227.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=2QEYAu-2AmQB1eh5e2eMHA"},
-	 	{"name": "Gestion Commerciale", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Gescom/Gescom100c_1227.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=6Cj-8W5SKo5Bcjv4s2UGpw"},
+		{"name": "Sage Superviseur v4.10","url" : "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/Supervisor/4.102/SetupSupervisor.exe", "url_secours": "http://dl.lech.fr/public/api/resources/download?hash=bL_j5-wOVaRdHggIZsM9hA"},
+	 	{"name": "Entreprise / SCF", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/ERP/Erp100c_1228.exe", "url_secours": "http://dl.lech.fr/public/api/resources/download?hash=9Q4rVka3R7Z9C3_iAZBT_g"},
+    	{"name": "Comptabilite", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Compta/Compta100c_1228.exe", "url_secours": "http://dl.lech.fr/public/api/resources/download?hash=iMOqx_Kgu4fyOSdJ8X_2hQ"},
+	 	{"name": "Gestion Commerciale", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Gescom/Gescom100c_1228.exe", "url_secours": "http://dl.lech.fr/public/api/resources/download?hash=hXBxDUfo4n6RMvdYpO4XsA"},
 	 	{"name": "Moyens de Paiement", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Mdp/Mdp100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=Zus5XlZoXC_YEdMBr3i52g"},
 	 	{"name": "Immobilisations", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Immo/Immo100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=_KlGw0woa3z666l20nOpmg"},
 	 	{"name": "Tresorerie", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Treso/Treso100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=xEEI7R9KD0_dqdhWP-w8zg"},

@@ -34,6 +34,7 @@
 	"Sage Paie v9.xx": [
 		{"name": "Paie 9.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/9.00/Logiciel/Paie100/Sage100Paie.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=P4oXjxFUSJWjL6vdvPekaw"},
 		{"name": "Patch 9.00.1","url": "https://burdpme.sage.com.dl1.ipercast.net/PaieV1800/9001/Paie_100_9001.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=-lLrBE3uM4N9JVljlMPDdg"},
+		{"name": "Patch 9.00.2","url": "https://burdpme.sage.com.dl1.ipercast.net/PaieV1800/9002/Paie_100_9002.exe"},
 		{"name": "Sage DS 17.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/9.00/Logiciel/DS/DeclarationsSocialesServeur.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=ke-dibPrBpgeRb5oQWDfPA"},
 		{"name": "Jeu d'essai v9","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/9.00/Logiciel/JeudEssai/sqlserveur/JESQL.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=1ACqkVfjekDb_EeQCexIew"}
 	],

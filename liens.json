@@ -1,11 +1,11 @@
 {
 	"Microsoft SQL Server": [
 		{"name": "SQL Server 2025 Express (FR)", "url": "https://dl.lech.fr/public/api/resources/download?hash=vnMKUMfwNUA4Fp5CYkXa_g"},
-		{"name": "SQL Server 2025 Cumulative Update", "url": "https://dl.lech.fr/public/api/resources/download?hash=trYqZ6uANhTVLZNOsEJDIw"},
+		{"name": "SQL Server 2025 Cumulative Update 9 - September 2026", "url": "http://dl.lech.fr/public/api/resources/download?hash=zvDqp9EymxKsk7viHhtVZw"},
 		{"name": "SQL Server 2022 Express Advanced Services (FR)", "url": "https://dl.lech.fr/public/api/resources/download?hash=BIu6JmDnFvUXyyGcC4fK-w"},
-		{"name": "SQL Server 2022 Cumulative Update", "url": "https://dl.lech.fr/public/api/resources/download?hash=P70WPaS21VIOKEiV_q3ktQ"},
+		{"name": "SQL Server 2022 Cumulative Update 27 - Septembre 2026", "url": "http://dl.lech.fr/public/api/resources/download?hash=lP2xtQJXrHi1aNTAGcP_0Q"},
 		{"name": "SQL Server 2019 Express Advanced Services (FR)", "url": "https://download.microsoft.com/download/8/c/1/8c19e6c3-dde1-49ea-a4f5-e261671cc302/SQLEXPRADV_x64_FRA.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=PdX84p0NG1YKSulm1OFoMA" },
-    	{"name": "SQL Server 2019 Cumulative Update", "url": "https://dl.lech.fr/public/api/resources/download?hash=FcYmN_F6fg3ESsa6nerHJw"},
+    	{"name": "SQL Server 2019 Cumulative Update 32 - Février 2025", "url": "https://dl.lech.fr/public/api/resources/download?hash=FcYmN_F6fg3ESsa6nerHJw"},
 		{"name": "SQL Server 2012 SP4 x64 (pour maj instance)", "url": "https://dl.lech.fr/public/api/resources/download?hash=8a-v9nyKjS3DYJa-kDJXqg"},
 		{"name": "SQL Server 2025 - NE PLUS INSTALLER CHEZ CLIENT SAUF REINSTALL DEJA EXISTANTE", "url": "http://dl.lech.fr/public/api/resources/download?hash=eZhfWr2LjLLe7KhcdfrRsA"},
 		{"name": "SQL Server 2022 - NE PLUS INSTALLER CHEZ CLIENT SAUF REINSTALL DEJA EXISTANTE", "url": "http://dl.lech.fr/public/api/resources/download?hash=OVQ8ckOoEeXxaGoJZkGF7g"}

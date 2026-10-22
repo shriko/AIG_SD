@@ -94,7 +94,7 @@
 		{"name": "SRC - Connecteur 7.2","url":"https://adewc-d002-b118-as3-p1-3ae5fe7f2-01.s3.eu-central-1.amazonaws.com/clearnox-connector/clearnox-connector-7-2-0-0.msi"},
 		{"name": "SRC x PDF by AIG","url":"https://dl.lech.fr/public/api/resources/download?hash=49ETk_MkJgrkaDksCONxFg"},
 		{"name": "ACS - Console Live","url" : "https://download.akaolife.com/SmithConnector/Setup/ACS/SetupSmithConnector.msi"},
-		{"name": "TransfertBanque - ComptaSync","url": "https://www.transfertbanque.fr/appli/Connecteur/ComptaSync.msi"}
+		{"name": "TransfertBanque - ComptaSync","url": "https://www.transfertbanque.fr/appli/Connecteur/ProdServ/ComptaSync.msi"}
 	],
 	"Gestion Production": [
 		{"name": "Gestion de Production - 1ere installation - 12.10", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100c_1210.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=EvbzavyxZaMfAsmSh4khFw"},

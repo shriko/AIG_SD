@@ -29,7 +29,7 @@
 	 	{"name": "Moyens de Paiement", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Mdp/Mdp100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=Zus5XlZoXC_YEdMBr3i52g"},
 	 	{"name": "Immobilisations", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Immo/Immo100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=_KlGw0woa3z666l20nOpmg"},
 	 	{"name": "Tresorerie", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Treso/Treso100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=xEEI7R9KD0_dqdhWP-w8zg"},
-	  	{"name": "Objets Metiers", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Autre/Objets100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=6y96l8ZEic5RpZbRm_ZbYA"}
+	  	{"name": "Objets Metiers", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Autre/Objets100c_1226.exe", "url_secours": "http://dl.lech.fr/public/api/resources/download?hash=xF7346-CQggdyXNFtklrFg"}
 	],
 	"Sage Paie v9.xx": [
 		{"name": "Paie 9.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/9.00/Logiciel/Paie100/Sage100Paie.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=P4oXjxFUSJWjL6vdvPekaw"},

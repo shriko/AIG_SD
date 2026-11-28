@@ -20,16 +20,20 @@
 		{"name": "Sage Toolbox", "url": "http://dl.lech.fr/public/api/resources/download?hash=1cdJo3q44ZDmh9rw2-7SEw"}
 	],
 	"Sage 100 v12.25|28": [
-	  	{"name": "Partie Serveur", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=aEyi0B14E-Fgcdt9WT23VA"},
-    	{"name": "Partie Cliente", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServCli100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=aEyi0B14E-Fgcdt9WT23VA"},
-		{"name": "Sage Superviseur v4.10","url" : "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/Supervisor/4.102/SetupSupervisor.exe", "url_secours": "http://dl.lech.fr/public/api/resources/download?hash=bL_j5-wOVaRdHggIZsM9hA"},
-	 	{"name": "Entreprise / SCF", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/ERP/Erp100c_1228.exe", "url_secours": "http://dl.lech.fr/public/api/resources/download?hash=9Q4rVka3R7Z9C3_iAZBT_g"},
-    	{"name": "Comptabilite", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Compta/Compta100c_1228.exe", "url_secours": "http://dl.lech.fr/public/api/resources/download?hash=iMOqx_Kgu4fyOSdJ8X_2hQ"},
-	 	{"name": "Gestion Commerciale", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Gescom/Gescom100c_1228.exe", "url_secours": "http://dl.lech.fr/public/api/resources/download?hash=hXBxDUfo4n6RMvdYpO4XsA"},
-	 	{"name": "Moyens de Paiement", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Mdp/Mdp100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=Zus5XlZoXC_YEdMBr3i52g"},
-	 	{"name": "Immobilisations", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Immo/Immo100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=_KlGw0woa3z666l20nOpmg"},
-	 	{"name": "Tresorerie", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Treso/Treso100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=xEEI7R9KD0_dqdhWP-w8zg"},
-	  	{"name": "Objets Metiers", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Autre/Objets100c_1226.exe", "url_secours": "http://dl.lech.fr/public/api/resources/download?hash=xF7346-CQggdyXNFtklrFg"}
+	  	{"name": "Partie Serveur - 12.25", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServSQL100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=aEyi0B14E-Fgcdt9WT23VA"},
+    	{"name": "Partie Cliente - 12.25", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServCli100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=aEyi0B14E-Fgcdt9WT23VA"},
+		{"name": "Sage Superviseur - 4.11","url" : "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/Supervisor/4.11/SetupSupervisor.exe"},
+	 	{"name": "Entreprise / SCF - 12.28", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/ERP/Erp100c_1228.exe", "url_secours": "http://dl.lech.fr/public/api/resources/download?hash=9Q4rVka3R7Z9C3_iAZBT_g"},
+    	{"name": "Comptabilite - 12.28", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Compta/Compta100c_1228.exe", "url_secours": "http://dl.lech.fr/public/api/resources/download?hash=iMOqx_Kgu4fyOSdJ8X_2hQ"},
+	 	{"name": "Gestion Commerciale - 12.28", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Gescom/Gescom100c_1228.exe", "url_secours": "http://dl.lech.fr/public/api/resources/download?hash=hXBxDUfo4n6RMvdYpO4XsA"},
+	 	{"name": "Moyens de Paiement - 12.25", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Mdp/Mdp100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=Zus5XlZoXC_YEdMBr3i52g"},
+	 	{"name": "Immobilisations - 12.25", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Immo/Immo100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=_KlGw0woa3z666l20nOpmg"},
+	 	{"name": "Tresorerie - 12.25", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Treso/Treso100c_1225.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=xEEI7R9KD0_dqdhWP-w8zg"}	  	
+	],
+	"Sage Objets Métiers": [
+		{"name": "Objets Metiers - 12.26", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Autre/Objets100c_1226.exe"},
+		{"name": "Objets Metiers - 12.10", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Autre/Objets100c_1210.exe"},
+		{"name": "Objets Metiers - 12.00", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Autre/Objets100c_1200.exe"}
 	],
 	"Sage Paie v9.xx": [
 		{"name": "Paie 9.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Paie100/9.00/Logiciel/Paie100/Sage100Paie.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=P4oXjxFUSJWjL6vdvPekaw"},
@@ -61,7 +65,7 @@
 		{"name": "Sage Serveur Windows v30","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Serveurs/ServWin_3000.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=x5SFyPPaRzovCL4VB1krKQ"}
 	],
 	"Sage BI": [
-		{"name": "Sage Business Reporting 26.1","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/BIReporting_100.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=llidHSI51kSowjgWHEdmHg"},
+		{"name": "Sage Business Reporting 26.2","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/BIReporting_100.exe"},
 		{"name": "Sage BI Reporting 24.10","url":"https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/BIReporting/SageBIReporting24.10.0.9.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=njDTXdcXmEyj9lOAAUDG0g"}
 	],
 	"Supporia" : [
@@ -83,8 +87,8 @@
 	],
 	"Outils SPC": [
 		{"name": "Sage Onlive Converter v12.25","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/Common/Maintenance/SOC_pour_100_V1225.zip", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=K3Tjg5vY3tkMklLX3ybRiw"},
-		{"name": "Migration Sage 100 Paie Heberge/SPC v9.00.1 - 2026.3", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/9.00.1/PaieMigrationAzure9.00.1_vers_2026.3.zip", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=H4LcIpnrPGEbVFQZ5ZH4vQ"},
-		{"name": "Documentation outil migration Paie 9.00.1", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V9001.pdf", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=VHzyrST3Q_II4V29NjjEiQ"},
+		{"name": "Migration Sage 100 Paie Heberge/SPC v9.00.2 - 2026.3.1", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/9.00.2/PaieMigrationAzure9.00.2_vers_2026.3.1.zip"},
+		{"name": "Documentation outil migration Paie 9.00.2", "url": "https://burdpme.sage.com.dl1.ipercast.net/MigrationOnline/Assistant%20de%20migration%20Sage%20Online%20V9002.pdf"},
 		{"name": "VisuPDF SPC", "url": "https://dl.lech.fr/public/api/resources/download?hash=t9dlMMa2Zb8Moq72bufdOA"},
 		{"name": "Export Multimedia", "url": "https://dl.lech.fr/public/api/resources/download?hash=ssp0mBNMy02kuG2BB0u12A"},
 		{"name": "Optimisation SPC", "url": "https://dl.lech.fr/public/api/resources/download?hash=DHOxyDmEpyqoYNZnFzKOFA"},
@@ -102,8 +106,8 @@
 	  	{"name": "Gestion de Production - Mise a jour - 12.10", "url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/GesProd/GesProd100cMaj_1210.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=vEgdF1fzNFUTU4mEn-KdLg"}
 	],
 	"Sage CRM": [
-		{"name": "CRM Force de Vente/Service 12.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/CRM/Crm100c_1200.iso", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=r9dOmNRKHEIhg6vGM8vWDA"},
-	  	{"name": "Service Web d'intégration Gestion Commerciale pour CRM 12.00","url" : "https://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_1200.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=rdNNBmsRmePWM_kapFQFKg"}
+		{"name": "CRM Force de Vente/Service - 12.00","url": "https://burdpme.sage.com.dl1.ipercast.net/PME/Sage100c/CRM/Crm100c_1200.iso", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=r9dOmNRKHEIhg6vGM8vWDA"},
+	  	{"name": "Service Web d'intégration Gestion Commerciale pour CRM - 12.00","url" : "https://burdpme.sage.com.dl1.ipercast.net/master/crm/ws100/WebServ_1200.exe", "url_secours": "https://dl.lech.fr/public/api/resources/download?hash=rdNNBmsRmePWM_kapFQFKg"}
 	],
 	"Batigest avec SQL": [
 		{"name": "v10.0.2","url":"https://bupe.sage.com.dl1.ipercast.net/telechargement/installations/clients/Sage_Batigest_Connect_V10.0.2.exe"},
